@@ -1,5 +1,5 @@
 FROM scratch
-ADD oracle-linux-7.tar.gz /
+ADD oracle-7.tar.gz /
 
 LABEL maintainer="Aleksander Baranowski <ab@euro-linux.com> (@AlexBaranowski)"
 LABEL org.label-schema.schema-version="1.0" \
