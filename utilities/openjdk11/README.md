@@ -33,7 +33,7 @@ $ docker pull eurolinux/openjdk11
 To run the image:
 
 ```
-$ docker run -it eurolinux/openjdk11
+$ docker run -it eurolinux/openjdk11 bash
 
 ```
 
