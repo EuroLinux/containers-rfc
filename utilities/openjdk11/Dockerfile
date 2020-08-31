@@ -14,3 +14,14 @@ RUN  yum install -y java-11-openjdk-devel \
 
 ENV JAVA_HOME=/etc/alternatives/java_sdk_11
 ENV PATH="$JAVA_HOME/bin:$PATH"
+
+WORKDIR /my_java
+
+RUN adduser jdk
+RUN chown -R jdk:jdk /my_java
+
+VOLUME ["/my_java"]
+
+USER jdk
+
+CMD ["bash"]
