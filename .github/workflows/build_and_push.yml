@@ -13,14 +13,8 @@ on:
      - "eurolinux-8-8.*"
      - "eurolinux-7-7.*"
      - "scientific-linux-7-7.*"
-     - "alma-8-8.*"
+     - "almalinux-8-8.*"
      - "rocky-8-8.*"
-
-
-env:
-
-  DOCKERHUB_USER: "halat"
-  QUAY_USER: "barnabur"
 
 jobs:
 
@@ -50,14 +44,14 @@ jobs:
       - name: Login to DockerHub
         uses: docker/login-action@v1
         with:
-          username: ${{ env.DOCKERHUB_USER }}
+          username: ${{ secrets.DOCKERHUB_USER }}
           password: ${{ secrets.DOCKER_AND_QUAY_PASS }}
 
       - name: Login to Quay
         uses: docker/login-action@v1
         with:
           registry: quay.io
-          username: ${{ env.QUAY_USER }}
+          username: ${{ secrets.QUAY_USER }}
           password: ${{ secrets.DOCKER_AND_QUAY_PASS }}
 
       - name: Build  ${{ env.DISTR }} container

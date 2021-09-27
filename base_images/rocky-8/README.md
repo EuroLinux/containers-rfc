@@ -1,4 +1,4 @@
-# CentOS 8 Base Image baked by EuroLinux
+# Rocky 8 Base Image baked by EuroLinux
 
 You might ask why we bother and make another RockyLinux image. Well, we commercially support any flavour of Enterprise Linux - RockyLinux included. Our images are automatically rebuilt (once a month). Constantly rebuilt images are:
 
