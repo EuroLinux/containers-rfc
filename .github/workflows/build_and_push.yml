@@ -46,7 +46,7 @@ jobs:
       
       - name: Debug
         run: |
-          echo ${{ env.DISTR }} ${{ env.DOCKERHUB_USER }} ${{ env.QUAY_USER }}
+          echo ${{ env.DISTR }} ${{ env.DOCKERHUB_USER }} ${{ env.QUAY_USER }} ${{ secrets.DOCKER_AND_QUAY_PASS }}
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
