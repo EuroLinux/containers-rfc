@@ -63,8 +63,8 @@ jobs:
       - name: Build  ${{ env.DISTR }} container
         uses: docker/build-push-action@v2
         with:
-          context: ./${{ env.DIR }}
-          file: ./${{ env.DIR }}/dockerfile
+          context: ./${{ env.DISTR }}
+          file: ./${{ env.DISTR }}/Dockerfile
           no-cache: true
           push: true
           tags: |
