@@ -66,7 +66,7 @@ jobs:
           context: ./${{ env.DIR }}
           file: ./${{ env.DIR }}/dockerfile
           no-cache: true
-          push: 
+          push: true
           tags: |
             eurolinux/${{ env.DISTR }}:latest
             eurolinux/${{ env.DISTR }}:${{ env.TAG }}
