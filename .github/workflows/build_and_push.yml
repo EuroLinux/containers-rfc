@@ -70,5 +70,5 @@ jobs:
           tags: |
             eurolinux/${{ env.DISTR }}:latest
             eurolinux/${{ env.DISTR }}:${{ env.TAG }}
-            quay.io/eurolinux/${{ env.QUAY_IMAGE_NAME }}:latest
-            quay.io/eurolinux/${{ env.QUAY_IMAGE_NAME }}:${{ env.TAG }}
+            quay.io/eurolinux/${{ env.DISTR }}:latest
+            quay.io/eurolinux/${{ env.DISTR }}:${{ env.TAG }}
