@@ -15,6 +15,14 @@ on:
      - "scientific-linux-7-7.*"
      - "alma-8-8.*"
      - "rocky-8-8.*"
+
+
+env:
+  IMAGE_BASE_NAME: eurolinux/
+
+  DOCKERHUB_USER: halat
+  QUAY_USER: barnabur
+
 jobs:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -31,26 +39,31 @@ jobs:
         uses: actions/checkout@v2
       - name: Set env
         run: |
-          echo "DISTR=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
-      - name: Test
-        run: |
-          echo ${{ env.DISTR }}
+          echo "TAG=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
       - name: get dir with correct dockerfile
         run: |
-          echo DIR=$( sed -n "s/-[0-9]\.[0-9]//p" <<< ${{ env.DISTR }}) >> $GITHUB_ENV
+          echo DISTR=$( sed -n "s/-[0-9]\.[0-9].*$//p" <<< ${{ env.TAG }}) >> $GITHUB_ENV
+      
+      - name: Debug DISTR
+        run: |
+          echo ${{ env.DISTR }}
+          
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
 
       - name: Login to DockerHub
         uses: docker/login-action@v1
         with:
-          username: ${{ secrets.DOCKERHUB_USER }}
-          password: ${{ secrets.DOCKERHUB_PASS }}
+          username: ${{ env.DOCKERHUB_USER }}
+          password: ${{ secrets.DOCKER_AND_QUAY_PASS }}
 
       - name: Login to Quay
         uses: docker/login-action@v1
         with:
           registry: quay.io
-          username: ${{ secrets.QUAY_USER }}
-          password: ${{ secrets.QUAY_PASS }}
+          username: ${{ env.QUAY_USER }}
+          password: ${{ secrets.DOCKER_AND_QUAY_PASS }}
 
       - name: Build  ${{ env.DISTR }} container
         uses: docker/build-push-action@v2
@@ -60,7 +73,7 @@ jobs:
           no-cache: true
           push: 
           tags: |
-            ${{ env.DH_IMAGE_NAME }}:latest
-            ${{ env.DH_IMAGE_NAME }}:${{ env.DISTR }}
-            quay.io/${{ env.QUAY_IMAGE_NAME }}:latest
-            quay.io/${{ env.QUAY_IMAGE_NAME }}:${{ env.DISTR }}
+            eurolinux/${{ env.DISTR }}:latest
+            eurolinux/${{ env.DISTR }}:${{ env.TAG }}
+            quay.io/eurolinux/${{ env.QUAY_IMAGE_NAME }}:latest
+            quay.io/eurolinux/${{ env.QUAY_IMAGE_NAME }}:${{ env.TAG }}
