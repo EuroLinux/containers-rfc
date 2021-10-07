@@ -1,5 +1,5 @@
 FROM scratch
-ADD almalinux-8.tar.gz /
+ADD alma-8.tar.gz /
 
 LABEL maintainer="Aleksander Baranowski <ab@euro-linux.com> (@AlexBaranowski)"
 LABEL org.label-schema.schema-version="1.0" \
@@ -8,6 +8,6 @@ LABEL org.label-schema.schema-version="1.0" \
   org.label-schema.url="https://euro-linux.com"\
   org.label-schema.vcs-url="https://github.com/EuroLinux/containers-rfc"\
   org.label-schema.license="GPLv2" \
-  org.label-schema.build-date="20210920"
+  org.label-schema.build-date="20211007"
 
 CMD ["/bin/bash"]
