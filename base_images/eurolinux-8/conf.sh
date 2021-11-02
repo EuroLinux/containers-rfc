@@ -1,0 +1,2 @@
+DOCKER_TAG_NAME="eurolinux-8"
+DOCKER_TAG_RELEASE="8.4.7"
