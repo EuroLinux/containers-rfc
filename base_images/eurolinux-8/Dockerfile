@@ -8,7 +8,7 @@ LABEL org.label-schema.schema-version="1.0" \
   org.label-schema.url="https://euro-linux.com"\
   org.label-schema.vcs-url="https://github.com/EuroLinux/containers-rfc"\
   org.label-schema.license="GPLv2" \
-  org.label-schema.build-date="20211213"
+  org.label-schema.build-date="20220303"
 
 ENV LOG4J_FORMAT_MSG_NO_LOOKUPS=true
 CMD ["/bin/bash"]
