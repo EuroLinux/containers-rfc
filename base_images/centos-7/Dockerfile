@@ -1,13 +1,20 @@
 FROM scratch
 ADD centos-7.tar.gz /
 
-LABEL maintainer="Aleksander Baranowski <ab@euro-linux.com> (@AlexBaranowski)"
-LABEL org.label-schema.schema-version="1.0" \
-  org.label-schema.name="CentOS 7" \
-  org.label-schema.vendor="System - CentOS; Image - EuroLinux" \
-  org.label-schema.url="https://euro-linux.com"\
-  org.label-schema.vcs-url="https://github.com/EuroLinux/containers-rfc"\
-  org.label-schema.license="GPLv2" \
-  org.label-schema.build-date="20220321"
+LABEL maintainer="EuroLinux Containers team <containers@euro-linux.com>" \
+  name="centos-7" \
+  vendor="System - CentOS; Image - EuroLinux" \
+  url="https://euro-linux.com"\
+  source="https://github.com/EuroLinux/containers-rfc"\
+  licenses="GPLv2" \
+  created="20220327" \
+  architecture="x86_64" \
+  summary="CentOS 7 Base Container" \
+  description="Provides CentOS 7 Base Container" \
+  version="7" \
+  io.k8s.display-name="CentOS 7 Base Container" \
+  io.k8s.description="Provides CentOS 7 Base Container" \
+  io.openshift.tags="base centos"
+
 
 CMD ["/bin/bash"]
