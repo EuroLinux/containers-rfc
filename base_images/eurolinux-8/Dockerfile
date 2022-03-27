@@ -1,14 +1,20 @@
 FROM scratch
 ADD eurolinux-8.tar.gz /
 
-LABEL maintainer="Aleksander Baranowski <ab@euro-linux.com> (@AlexBaranowski)"
-LABEL org.label-schema.schema-version="1.0" \
-  org.label-schema.name="EuroLinux 8" \
-  org.label-schema.vendor="System - EuroLinux; Image - EuroLinux" \
-  org.label-schema.url="https://euro-linux.com"\
-  org.label-schema.vcs-url="https://github.com/EuroLinux/containers-rfc"\
-  org.label-schema.license="GPLv2" \
-  org.label-schema.build-date="20220321"
+LABEL maintainer="EuroLinux Containers team <containers@euro-linux.com>" \
+  name="eurolinux-8" \
+  vendor="System - EuroLinux; Image - EuroLinux" \
+  url="https://euro-linux.com"\
+  source="https://github.com/EuroLinux/containers-rfc"\
+  licenses="GPLv2" \
+  created="20220327" \
+  architecture="x86_64" \
+  summary="EuroLinux 8 Base Container" \
+  description="Provides EuroLinux 8 Base Container" \
+  version="8" \
+  io.k8s.display-name="EuroLinux 8 Base Container" \
+  io.k8s.description="Provides EuroLinux 8 Base Container" \
+  io.openshift.tags="base eurolinux"
 
 ENV LOG4J_FORMAT_MSG_NO_LOOKUPS=true
 CMD ["/bin/bash"]
