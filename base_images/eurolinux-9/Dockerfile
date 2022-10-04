@@ -7,13 +7,13 @@ LABEL maintainer="EuroLinux Containers team <containers@euro-linux.com>" \
   url="https://euro-linux.com"\
   source="https://github.com/EuroLinux/containers-rfc"\
   licenses="GPLv2" \
-  created="20221001" \
+  created="20221004" \
   architecture="x86_64" \
-  summary="EuroLinux 9 beta Base Container" \
-  description="Provides EuroLinux 9 beta Base Container" \
+  summary="EuroLinux 9 Base Container" \
+  description="Provides EuroLinux 9 Base Container" \
   version="9" \
-  io.k8s.display-name="EuroLinux 9 beta Base Container" \
-  io.k8s.description="Provides EuroLinux 9 beta Base Container" \
+  io.k8s.display-name="EuroLinux 9 Base Container" \
+  io.k8s.description="Provides EuroLinux 9 Base Container" \
   io.openshift.tags="base eurolinux"
 
 
