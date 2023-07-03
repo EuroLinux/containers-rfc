@@ -1,0 +1,2 @@
+DOCKER_TAG_NAME="oracle-linux-9"
+DOCKER_TAG_RELEASE="9.2.0"
