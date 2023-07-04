@@ -1,0 +1,20 @@
+FROM scratch
+ADD rocky-8.tar.gz /
+
+LABEL maintainer="EuroLinux Containers team <containers@euro-linux.com>" \
+  name="rocky-8" \
+  vendor="System - RockyLinux; Image - EuroLinux" \
+  url="https://euro-linux.com"\
+  source="https://github.com/EuroLinux/containers-rfc"\
+  licenses="GPLv2" \
+  created="20230704" \
+  architecture="x86_64" \
+  summary="RockyLinux 8 Base Container" \
+  description="Provides RockyLinux 8 Base Container" \
+  version="8" \
+  io.k8s.display-name="RockyLinux 8 Base Container" \
+  io.k8s.description="Provides RockyLinux 8 Base Container" \
+  io.openshift.tags="base rockylinux"
+
+
+CMD ["/bin/bash"]
