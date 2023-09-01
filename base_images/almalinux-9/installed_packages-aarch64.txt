@@ -10,7 +10,7 @@ ca-certificates-2022.2.54-90.2.el9_0-noarch;RSA/SHA256, Fri Sep 23 10:27:41 2022
 coreutils-single-8.32-34.el9-aarch64;RSA/SHA256, Sat Apr  8 10:44:06 2023, Key ID d36cb86cb86b3716
 crypto-policies-20221215-1.git9a18988.el9-noarch;RSA/SHA256, Thu Apr  6 10:26:49 2023, Key ID d36cb86cb86b3716
 crypto-policies-scripts-20221215-1.git9a18988.el9-noarch;RSA/SHA256, Thu Apr  6 10:26:29 2023, Key ID d36cb86cb86b3716
-curl-minimal-7.76.1-23.el9_2.1-aarch64;RSA/SHA256, Thu May 11 13:21:34 2023, Key ID d36cb86cb86b3716
+curl-minimal-7.76.1-23.el9_2.2-aarch64;RSA/SHA256, Wed Aug  2 10:25:12 2023, Key ID d36cb86cb86b3716
 cyrus-sasl-lib-2.1.27-21.el9-aarch64;RSA/SHA256, Wed Apr 12 14:22:16 2023, Key ID d36cb86cb86b3716
 dejavu-sans-fonts-2.37-18.el9-noarch;RSA/SHA256, Fri Mar 11 20:22:12 2022, Key ID d36cb86cb86b3716
 dnf-4.14.0-5.el9_2.alma-noarch;RSA/SHA256, Tue May  9 18:45:22 2023, Key ID d36cb86cb86b3716
@@ -19,7 +19,7 @@ elfutils-default-yama-scope-0.188-3.el9-noarch;RSA/SHA256, Sat Apr  8 06:45:51 2
 elfutils-libelf-0.188-3.el9-aarch64;RSA/SHA256, Sat Apr  8 06:47:39 2023, Key ID d36cb86cb86b3716
 elfutils-libs-0.188-3.el9-aarch64;RSA/SHA256, Sat Apr  8 06:46:08 2023, Key ID d36cb86cb86b3716
 expat-2.5.0-1.el9-aarch64;RSA/SHA256, Sat Apr  8 18:50:24 2023, Key ID d36cb86cb86b3716
-file-libs-5.39-12.el9-aarch64;RSA/SHA256, Sat Apr  8 18:49:46 2023, Key ID d36cb86cb86b3716
+file-libs-5.39-12.1.el9_2-aarch64;RSA/SHA256, Wed Aug  2 16:31:25 2023, Key ID d36cb86cb86b3716
 filesystem-3.16-2.el9-aarch64;RSA/SHA256, Fri Mar 25 17:53:20 2022, Key ID d36cb86cb86b3716
 findutils-4.8.0-5.el9-aarch64;RSA/SHA256, Thu Apr 14 22:05:19 2022, Key ID d36cb86cb86b3716
 fonts-filesystem-2.0.5-7.el9.1-noarch;RSA/SHA256, Sat Mar 12 07:27:35 2022, Key ID d36cb86cb86b3716
@@ -49,7 +49,7 @@ libcap-2.48-8.el9-aarch64;RSA/SHA256, Wed Apr  6 12:08:08 2022, Key ID d36cb86cb
 libcap-ng-0.8.2-7.el9-aarch64;RSA/SHA256, Mon May  2 08:47:50 2022, Key ID d36cb86cb86b3716
 libcom_err-1.46.5-3.el9-aarch64;RSA/SHA256, Mon Oct 17 10:34:58 2022, Key ID d36cb86cb86b3716
 libcomps-0.1.18-1.el9-aarch64;RSA/SHA256, Tue Mar  8 06:55:52 2022, Key ID d36cb86cb86b3716
-libcurl-minimal-7.76.1-23.el9_2.1-aarch64;RSA/SHA256, Thu May 11 13:20:45 2023, Key ID d36cb86cb86b3716
+libcurl-minimal-7.76.1-23.el9_2.2-aarch64;RSA/SHA256, Wed Aug  2 10:25:06 2023, Key ID d36cb86cb86b3716
 libdnf-0.69.0-3.el9_2.alma-aarch64;RSA/SHA256, Tue May  9 18:43:42 2023, Key ID d36cb86cb86b3716
 libevent-2.1.12-6.el9-aarch64;RSA/SHA256, Sat Mar 12 00:23:24 2022, Key ID d36cb86cb86b3716
 libffi-3.4.2-7.el9-aarch64;RSA/SHA256, Sat Mar 12 00:39:02 2022, Key ID d36cb86cb86b3716
@@ -76,7 +76,7 @@ libunistring-0.9.10-15.el9-aarch64;RSA/SHA256, Sat Mar 12 04:02:01 2022, Key ID 
 libuuid-2.37.4-11.el9_2-aarch64;RSA/SHA256, Thu May 11 13:21:49 2023, Key ID d36cb86cb86b3716
 libverto-0.3.2-3.el9-aarch64;RSA/SHA256, Sat Mar 12 04:02:45 2022, Key ID d36cb86cb86b3716
 libxcrypt-4.4.18-3.el9-aarch64;RSA/SHA256, Sat Mar 12 04:58:10 2022, Key ID d36cb86cb86b3716
-libxml2-2.9.13-3.el9_1-aarch64;RSA/SHA256, Tue Jan 24 12:32:11 2023, Key ID d36cb86cb86b3716
+libxml2-2.9.13-3.el9_2.1-aarch64;RSA/SHA256, Wed Aug  2 10:25:09 2023, Key ID d36cb86cb86b3716
 libyaml-0.2.5-7.el9-aarch64;RSA/SHA256, Sat Mar 12 04:58:47 2022, Key ID d36cb86cb86b3716
 libzstd-1.5.1-2.el9-aarch64;RSA/SHA256, Thu Apr  7 10:52:11 2022, Key ID d36cb86cb86b3716
 lua-libs-5.4.4-3.el9-aarch64;RSA/SHA256, Sat Apr  8 08:46:11 2023, Key ID d36cb86cb86b3716
@@ -88,7 +88,7 @@ nettle-3.8-3.el9_0-aarch64;RSA/SHA256, Wed Oct 12 05:53:46 2022, Key ID d36cb86c
 npth-1.6-8.el9-aarch64;RSA/SHA256, Wed Mar 16 11:47:00 2022, Key ID d36cb86cb86b3716
 openldap-2.6.2-3.el9-aarch64;RSA/SHA256, Tue Oct 18 08:15:25 2022, Key ID d36cb86cb86b3716
 openldap-compat-2.6.2-3.el9-aarch64;RSA/SHA256, Tue Oct 18 08:16:50 2022, Key ID d36cb86cb86b3716
-openssl-libs-3.0.7-16.el9_2-aarch64;RSA/SHA256, Thu Jun 22 21:21:34 2023, Key ID d36cb86cb86b3716
+openssl-libs-3.0.7-17.el9_2-aarch64;RSA/SHA256, Wed Aug  2 16:31:53 2023, Key ID d36cb86cb86b3716
 p11-kit-0.24.1-2.el9-aarch64;RSA/SHA256, Fri Mar 25 19:58:29 2022, Key ID d36cb86cb86b3716
 p11-kit-trust-0.24.1-2.el9-aarch64;RSA/SHA256, Fri Mar 25 19:58:30 2022, Key ID d36cb86cb86b3716
 pcre2-10.40-2.el9-aarch64;RSA/SHA256, Tue Oct 18 00:51:38 2022, Key ID d36cb86cb86b3716
