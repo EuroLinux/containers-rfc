@@ -8,8 +8,8 @@ centos-gpg-keys-9.0-23.el9-noarch;RSA/SHA256, Tue Sep  5 14:40:55 2023, Key ID 0
 centos-stream-release-9.0-23.el9-noarch;RSA/SHA256, Tue Sep  5 14:40:55 2023, Key ID 05b555b38483c65d
 centos-stream-repos-9.0-23.el9-noarch;RSA/SHA256, Tue Sep  5 14:40:55 2023, Key ID 05b555b38483c65d
 coreutils-single-8.32-34.el9-x86_64;RSA/SHA256, Thu Jan 19 10:39:22 2023, Key ID 05b555b38483c65d
-crypto-policies-20230731-1.git94f0e2c.el9-noarch;RSA/SHA256, Mon Aug  7 13:08:29 2023, Key ID 05b555b38483c65d
-crypto-policies-scripts-20230731-1.git94f0e2c.el9-noarch;RSA/SHA256, Mon Aug  7 13:08:29 2023, Key ID 05b555b38483c65d
+crypto-policies-20230920-1.git8dcf74d.el9-noarch;RSA/SHA256, Wed Sep 27 16:10:35 2023, Key ID 05b555b38483c65d
+crypto-policies-scripts-20230920-1.git8dcf74d.el9-noarch;RSA/SHA256, Wed Sep 27 16:10:35 2023, Key ID 05b555b38483c65d
 curl-minimal-7.76.1-26.el9-x86_64;RSA/SHA256, Mon Jul 10 13:41:13 2023, Key ID 05b555b38483c65d
 cyrus-sasl-lib-2.1.27-21.el9-x86_64;RSA/SHA256, Mon Sep 12 21:41:18 2022, Key ID 05b555b38483c65d
 dejavu-sans-fonts-2.37-18.el9-noarch;RSA/SHA256, Thu Aug 12 19:22:06 2021, Key ID 05b555b38483c65d
