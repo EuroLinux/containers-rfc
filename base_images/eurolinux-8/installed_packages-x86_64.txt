@@ -144,8 +144,8 @@ ncurses-libs-6.1-10.20180224.el8-x86_64;RSA/SHA256, Fri Sep 29 16:48:06 2023, Ke
 nettle-3.4.1-7.el8-x86_64;RSA/SHA256, Tue Nov  9 23:09:04 2021, Key ID b413acad6275f250
 npth-1.5-4.el8-x86_64;RSA/SHA256, Wed Jun 23 20:22:22 2021, Key ID b413acad6275f250
 openldap-2.4.46-18.el8-x86_64;RSA/SHA256, Wed Nov 10 15:31:42 2021, Key ID b413acad6275f250
-openssl-1.1.1k-9.el8_7-x86_64;RSA/SHA256, Fri Mar 24 10:11:37 2023, Key ID b413acad6275f250
-openssl-libs-1.1.1k-9.el8_7-x86_64;RSA/SHA256, Fri Mar 24 10:11:39 2023, Key ID b413acad6275f250
+openssl-1.1.1k-12.el8_9-x86_64;RSA/SHA256, Tue Dec 19 15:51:44 2023, Key ID b413acad6275f250
+openssl-libs-1.1.1k-12.el8_9-x86_64;RSA/SHA256, Tue Dec 19 15:51:45 2023, Key ID b413acad6275f250
 openssl-pkcs11-0.4.10-3.el8-x86_64;RSA/SHA256, Sat Apr  1 15:14:45 2023, Key ID b413acad6275f250
 os-prober-1.74-9.el8-x86_64;RSA/SHA256, Wed Nov 10 15:32:04 2021, Key ID b413acad6275f250
 p11-kit-0.23.22-1.el8-x86_64;RSA/SHA256, Thu Oct 14 21:28:50 2021, Key ID b413acad6275f250
