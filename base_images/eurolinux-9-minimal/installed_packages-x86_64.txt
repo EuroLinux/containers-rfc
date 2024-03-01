@@ -77,9 +77,9 @@ openldap-2.6.3-1.el9-x86_64;RSA/SHA256, Sat Sep 30 09:41:10 2023, Key ID f7ad3e5
 openssl-libs-3.0.7-25.el9_3-x86_64;RSA/SHA256, Mon Jan 22 13:35:23 2024, Key ID f7ad3e5a1c9fd080
 p11-kit-0.24.1-2.el9-x86_64;RSA/SHA256, Thu Jun  2 21:24:52 2022, Key ID f7ad3e5a1c9fd080
 p11-kit-trust-0.24.1-2.el9-x86_64;RSA/SHA256, Thu Jun  2 21:24:53 2022, Key ID f7ad3e5a1c9fd080
+pcre-8.44-3.el9.3-x86_64;RSA/SHA256, Thu Jun  2 21:25:01 2022, Key ID f7ad3e5a1c9fd080
 pcre2-10.40-2.el9-x86_64;RSA/SHA256, Wed Oct 19 12:08:32 2022, Key ID f7ad3e5a1c9fd080
 pcre2-syntax-10.40-2.el9-noarch;RSA/SHA256, Wed Oct 19 12:08:34 2022, Key ID f7ad3e5a1c9fd080
-pcre-8.44-3.el9.3-x86_64;RSA/SHA256, Thu Jun  2 21:25:01 2022, Key ID f7ad3e5a1c9fd080
 popt-1.18-8.el9-x86_64;RSA/SHA256, Thu Jun  2 21:25:12 2022, Key ID f7ad3e5a1c9fd080
 readline-8.1-4.el9-x86_64;RSA/SHA256, Thu Jun  2 21:25:55 2022, Key ID f7ad3e5a1c9fd080
 rootfiles-8.1-31.el9-noarch;RSA/SHA256, Thu Jun  2 21:36:45 2022, Key ID f7ad3e5a1c9fd080
