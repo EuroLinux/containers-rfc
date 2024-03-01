@@ -12,10 +12,10 @@ cyrus-sasl-lib-2.1.27-21.el9-aarch64;RSA/SHA256, Sun Apr 30 21:33:12 2023, Key I
 dejavu-sans-fonts-2.37-18.el9-noarch;RSA/SHA256, Sat Sep 30 09:37:57 2023, Key ID f7ad3e5a1c9fd080
 dnf-4.14.0-8.el9-noarch;RSA/SHA256, Sun Oct  8 10:09:33 2023, Key ID f7ad3e5a1c9fd080
 dnf-data-4.14.0-8.el9-noarch;RSA/SHA256, Sun Oct  8 10:09:35 2023, Key ID f7ad3e5a1c9fd080
+el-release-9.3-1.0.el9-noarch;RSA/SHA256, Tue Nov  7 14:03:52 2023, Key ID f7ad3e5a1c9fd080
 elfutils-default-yama-scope-0.189-3.el9-noarch;RSA/SHA256, Fri Oct  6 11:42:47 2023, Key ID f7ad3e5a1c9fd080
 elfutils-libelf-0.189-3.el9-aarch64;RSA/SHA256, Mon Oct  9 07:42:06 2023, Key ID f7ad3e5a1c9fd080
 elfutils-libs-0.189-3.el9-aarch64;RSA/SHA256, Mon Oct  9 07:42:07 2023, Key ID f7ad3e5a1c9fd080
-el-release-9.3-1.0.el9-noarch;RSA/SHA256, Tue Nov  7 14:03:52 2023, Key ID f7ad3e5a1c9fd080
 expat-2.5.0-1.el9-aarch64;RSA/SHA256, Tue Apr 25 19:41:57 2023, Key ID f7ad3e5a1c9fd080
 file-libs-5.39-14.el9-aarch64;RSA/SHA256, Mon Oct  9 07:42:09 2023, Key ID f7ad3e5a1c9fd080
 filesystem-3.16-2.el9-aarch64;RSA/SHA256, Tue May 31 08:43:36 2022, Key ID f7ad3e5a1c9fd080
@@ -92,9 +92,9 @@ openldap-2.6.3-1.el9-aarch64;RSA/SHA256, Mon Oct  9 07:44:41 2023, Key ID f7ad3e
 openssl-libs-3.0.7-24.el9-aarch64;RSA/SHA256, Mon Oct  9 07:44:46 2023, Key ID f7ad3e5a1c9fd080
 p11-kit-0.24.1-2.el9-aarch64;RSA/SHA256, Tue May 31 14:41:06 2022, Key ID f7ad3e5a1c9fd080
 p11-kit-trust-0.24.1-2.el9-aarch64;RSA/SHA256, Tue May 31 14:41:10 2022, Key ID f7ad3e5a1c9fd080
+pcre-8.44-3.el9.3-aarch64;RSA/SHA256, Tue May 31 08:25:06 2022, Key ID f7ad3e5a1c9fd080
 pcre2-10.40-2.el9-aarch64;RSA/SHA256, Tue Oct 18 18:13:12 2022, Key ID f7ad3e5a1c9fd080
 pcre2-syntax-10.40-2.el9-noarch;RSA/SHA256, Wed Oct 19 12:08:34 2022, Key ID f7ad3e5a1c9fd080
-pcre-8.44-3.el9.3-aarch64;RSA/SHA256, Tue May 31 08:25:06 2022, Key ID f7ad3e5a1c9fd080
 popt-1.18-8.el9-aarch64;RSA/SHA256, Tue May 31 08:25:18 2022, Key ID f7ad3e5a1c9fd080
 python3-3.9.18-1.el9_3-aarch64;RSA/SHA256, Wed Nov  8 08:34:56 2023, Key ID f7ad3e5a1c9fd080
 python3-dnf-4.14.0-8.el9-noarch;RSA/SHA256, Sun Oct  8 10:10:31 2023, Key ID f7ad3e5a1c9fd080
