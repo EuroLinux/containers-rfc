@@ -134,7 +134,7 @@ sqlite-3.7.17-8.el7_7.1-x86_64;DSA/SHA1, Tue Jan 28 12:57:11 2020, Key ID b0b418
 systemd-219-78.el7_9.9-x86_64;DSA/SHA1, Tue Nov 28 14:35:24 2023, Key ID b0b4183f192a7d7d
 systemd-libs-219-78.el7_9.9-x86_64;DSA/SHA1, Tue Nov 28 14:35:22 2023, Key ID b0b4183f192a7d7d
 tar-1.26-35.el7-x86_64;DSA/SHA1, Mon Nov  5 16:36:24 2018, Key ID b0b4183f192a7d7d
-tzdata-2023c-1.el7-noarch;DSA/SHA1, Tue Apr  4 13:09:01 2023, Key ID b0b4183f192a7d7d
+tzdata-2024a-1.el7-noarch;DSA/SHA1, Fri Feb  9 21:57:16 2024, Key ID b0b4183f192a7d7d
 usermode-1.111-6.el7-x86_64;DSA/SHA1, Thu Aug  8 14:39:21 2019, Key ID b0b4183f192a7d7d
 ustr-1.0.4-16.el7-x86_64;DSA/SHA1, Wed May 14 13:49:26 2014, Key ID b0b4183f192a7d7d
 util-linux-2.23.2-65.el7_9.1-x86_64;DSA/SHA1, Tue Feb  2 16:03:08 2021, Key ID b0b4183f192a7d7d
