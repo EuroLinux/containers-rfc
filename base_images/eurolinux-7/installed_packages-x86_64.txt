@@ -134,7 +134,7 @@ sqlite-3.7.17-8.el7_7.1-x86_64;RSA/SHA256, Tue Jan 28 17:01:39 2020, Key ID 75c3
 systemd-219-78.el7_9.9-x86_64;RSA/SHA256, Wed Nov 29 03:53:13 2023, Key ID 75c333f418cd4a9e
 systemd-libs-219-78.el7_9.9-x86_64;RSA/SHA256, Wed Nov 29 03:53:24 2023, Key ID 75c333f418cd4a9e
 tar-1.26-35.el7-x86_64;RSA/SHA256, Thu Dec  6 15:44:58 2018, Key ID 75c333f418cd4a9e
-tzdata-2023c-1.el7-noarch;RSA/SHA256, Sun Apr 16 23:03:58 2023, Key ID 75c333f418cd4a9e
+tzdata-2024a-1.el7-noarch;RSA/SHA256, Sat Feb 10 03:35:22 2024, Key ID 75c333f418cd4a9e
 usermode-1.111-6.el7-x86_64;RSA/SHA256, Fri Aug 30 08:51:58 2019, Key ID 75c333f418cd4a9e
 ustr-1.0.4-16.el7-x86_64;RSA/SHA256, Thu Oct  5 10:40:00 2017, Key ID 75c333f418cd4a9e
 util-linux-2.23.2-65.el7_9.1-x86_64;RSA/SHA256, Thu Feb  4 15:44:10 2021, Key ID 75c333f418cd4a9e
