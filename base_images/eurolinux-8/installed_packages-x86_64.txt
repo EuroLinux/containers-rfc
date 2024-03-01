@@ -44,10 +44,10 @@ gdbm-libs-1.18-2.el8-x86_64;RSA/SHA256, Mon Oct  3 13:04:55 2022, Key ID b413aca
 gettext-0.19.8.1-17.el8-x86_64;RSA/SHA256, Wed Jun 23 19:52:35 2021, Key ID b413acad6275f250
 gettext-libs-0.19.8.1-17.el8-x86_64;RSA/SHA256, Wed Jun 23 19:56:21 2021, Key ID b413acad6275f250
 glib2-2.56.4-161.el8-x86_64;RSA/SHA256, Fri Mar 31 06:35:43 2023, Key ID b413acad6275f250
-glibc-2.28-236.el8.7-x86_64;RSA/SHA256, Tue Nov 14 22:50:03 2023, Key ID b413acad6275f250
-glibc-common-2.28-236.el8.7-x86_64;RSA/SHA256, Tue Nov 14 22:50:06 2023, Key ID b413acad6275f250
-glibc-gconv-extra-2.28-236.el8.7-x86_64;RSA/SHA256, Tue Nov 14 22:50:08 2023, Key ID b413acad6275f250
-glibc-minimal-langpack-2.28-236.el8.7-x86_64;RSA/SHA256, Tue Nov 14 22:52:09 2023, Key ID b413acad6275f250
+glibc-2.28-236.el8_9.12-x86_64;RSA/SHA256, Tue Feb 20 20:22:19 2024, Key ID b413acad6275f250
+glibc-common-2.28-236.el8_9.12-x86_64;RSA/SHA256, Tue Feb 20 20:22:21 2024, Key ID b413acad6275f250
+glibc-gconv-extra-2.28-236.el8_9.12-x86_64;RSA/SHA256, Tue Feb 20 20:22:22 2024, Key ID b413acad6275f250
+glibc-minimal-langpack-2.28-236.el8_9.12-x86_64;RSA/SHA256, Tue Feb 20 20:23:30 2024, Key ID b413acad6275f250
 gmp-6.1.2-10.el8-x86_64;RSA/SHA256, Wed Jun 23 20:01:16 2021, Key ID b413acad6275f250
 gnupg2-2.2.20-3.el8_6-x86_64;RSA/SHA256, Wed Sep 14 12:38:05 2022, Key ID b413acad6275f250
 gnupg2-smime-2.2.20-3.el8_6-x86_64;RSA/SHA256, Wed Sep 14 12:38:06 2022, Key ID b413acad6275f250
@@ -187,7 +187,7 @@ python3-libxml2-2.9.7-18.el8_9-x86_64;RSA/SHA256, Fri Jan 12 10:19:15 2024, Key 
 python3-pip-wheel-9.0.3-23.el8-noarch;RSA/SHA256, Thu Oct  5 23:25:13 2023, Key ID b413acad6275f250
 python3-pysocks-1.6.8-3.el8-noarch;RSA/SHA256, Wed Jun 23 20:29:19 2021, Key ID b413acad6275f250
 python3-requests-2.20.0-3.el8_8-noarch;RSA/SHA256, Thu Aug 10 12:10:45 2023, Key ID b413acad6275f250
-python3-rpm-4.14.3-26.el8-x86_64;RSA/SHA256, Sat Apr  1 15:14:56 2023, Key ID b413acad6275f250
+python3-rpm-4.14.3-28.el8_9-x86_64;RSA/SHA256, Fri Feb  2 10:16:56 2024, Key ID b413acad6275f250
 python3-setuptools-wheel-39.2.0-7.el8-noarch;RSA/SHA256, Sat Apr  1 15:14:57 2023, Key ID b413acad6275f250
 python3-six-1.11.0-8.el8-noarch;RSA/SHA256, Wed Jun 23 20:29:44 2021, Key ID b413acad6275f250
 python3-subscription-manager-rhsm-1.28.21-3.el8-x86_64;RSA/SHA256, Tue Nov 16 20:50:41 2021, Key ID b413acad6275f250
@@ -195,10 +195,10 @@ python3-syspurpose-1.28.21-3.el8-x86_64;RSA/SHA256, Tue Nov 16 20:50:42 2021, Ke
 python3-systemd-234-8.el8-x86_64;RSA/SHA256, Wed Jun 23 18:51:50 2021, Key ID b413acad6275f250
 python3-urllib3-1.24.2-5.el8_9.2-noarch;RSA/SHA256, Fri Jan 12 10:19:16 2024, Key ID b413acad6275f250
 readline-7.0-10.el8-x86_64;RSA/SHA256, Wed Jun 23 20:31:38 2021, Key ID b413acad6275f250
-rpm-4.14.3-26.el8-x86_64;RSA/SHA256, Sat Apr  1 15:15:00 2023, Key ID b413acad6275f250
-rpm-build-libs-4.14.3-26.el8-x86_64;RSA/SHA256, Sat Apr  1 15:15:00 2023, Key ID b413acad6275f250
-rpm-libs-4.14.3-26.el8-x86_64;RSA/SHA256, Sat Apr  1 15:15:01 2023, Key ID b413acad6275f250
-rpm-plugin-systemd-inhibit-4.14.3-26.el8-x86_64;RSA/SHA256, Sat Apr  1 15:15:03 2023, Key ID b413acad6275f250
+rpm-4.14.3-28.el8_9-x86_64;RSA/SHA256, Fri Feb  2 10:16:56 2024, Key ID b413acad6275f250
+rpm-build-libs-4.14.3-28.el8_9-x86_64;RSA/SHA256, Fri Feb  2 10:16:57 2024, Key ID b413acad6275f250
+rpm-libs-4.14.3-28.el8_9-x86_64;RSA/SHA256, Fri Feb  2 10:16:58 2024, Key ID b413acad6275f250
+rpm-plugin-systemd-inhibit-4.14.3-28.el8_9-x86_64;RSA/SHA256, Fri Feb  2 10:16:59 2024, Key ID b413acad6275f250
 sed-4.5-5.el8-x86_64;RSA/SHA256, Tue Apr  5 15:40:11 2022, Key ID b413acad6275f250
 setup-2.12.2-9.el8-noarch;RSA/SHA256, Sat Apr  1 15:15:07 2023, Key ID b413acad6275f250
 shadow-utils-4.6-19.el8-x86_64;RSA/SHA256, Fri Sep 29 16:48:25 2023, Key ID b413acad6275f250
@@ -213,7 +213,7 @@ tar-1.30-9.el8-x86_64;RSA/SHA256, Sun Apr  2 11:57:06 2023, Key ID b413acad6275f
 tpm2-tss-2.3.2-5.el8-x86_64;RSA/SHA256, Fri Sep 29 16:48:29 2023, Key ID b413acad6275f250
 trousers-0.3.15-1.el8-x86_64;RSA/SHA256, Tue Jun 29 09:33:38 2021, Key ID b413acad6275f250
 trousers-lib-0.3.15-1.el8-x86_64;RSA/SHA256, Tue Jun 29 09:33:40 2021, Key ID b413acad6275f250
-tzdata-2023d-1.el8-noarch;RSA/SHA256, Tue Jan  9 13:09:17 2024, Key ID b413acad6275f250
+tzdata-2024a-1.el8-noarch;RSA/SHA256, Fri Feb  9 13:05:18 2024, Key ID b413acad6275f250
 usermode-1.113-2.el8-x86_64;RSA/SHA256, Tue Nov 16 22:47:08 2021, Key ID b413acad6275f250
 util-linux-2.32.1-43.el8-x86_64;RSA/SHA256, Fri Sep 29 22:20:41 2023, Key ID b413acad6275f250
 vim-minimal-8.0.1763-19.el8_6.4-x86_64;RSA/SHA256, Tue Aug  9 07:12:35 2022, Key ID b413acad6275f250
