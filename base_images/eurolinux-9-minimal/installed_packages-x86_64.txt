@@ -6,7 +6,7 @@ bzip2-libs-1.0.8-8.el9-x86_64;RSA/SHA256, Fri Jun  3 08:29:29 2022, Key ID f7ad3
 ca-certificates-2023.2.60_v7.0.306-90.1.el9_2-noarch;RSA/SHA256, Wed Sep 13 13:15:32 2023, Key ID f7ad3e5a1c9fd080
 coreutils-single-8.32-34.el9-x86_64;RSA/SHA256, Fri Mar 31 07:00:20 2023, Key ID f7ad3e5a1c9fd080
 crypto-policies-20230731-1.git94f0e2c.el9_3.1-noarch;RSA/SHA256, Wed Nov  8 10:17:05 2023, Key ID f7ad3e5a1c9fd080
-curl-minimal-7.76.1-26.el9_3.2-x86_64;RSA/SHA256, Wed Nov  8 10:17:08 2023, Key ID f7ad3e5a1c9fd080
+curl-minimal-7.76.1-26.el9_3.3-x86_64;RSA/SHA256, Thu Mar  7 06:32:36 2024, Key ID f7ad3e5a1c9fd080
 cyrus-sasl-lib-2.1.27-21.el9-x86_64;RSA/SHA256, Fri Mar 31 07:00:27 2023, Key ID f7ad3e5a1c9fd080
 dnf-data-4.14.0-8.el9-noarch;RSA/SHA256, Sun Oct  8 10:09:35 2023, Key ID f7ad3e5a1c9fd080
 el-release-9.3-1.0.el9-noarch;RSA/SHA256, Tue Nov  7 14:03:52 2023, Key ID f7ad3e5a1c9fd080
@@ -15,9 +15,9 @@ filesystem-3.16-2.el9-x86_64;RSA/SHA256, Fri Jun  3 08:30:28 2022, Key ID f7ad3e
 gawk-5.1.0-6.el9-x86_64;RSA/SHA256, Fri Jun  3 08:31:05 2022, Key ID f7ad3e5a1c9fd080
 gdbm-libs-1.19-4.el9-x86_64;RSA/SHA256, Fri Jun  3 08:31:07 2022, Key ID f7ad3e5a1c9fd080
 glib2-2.68.4-11.el9-x86_64;RSA/SHA256, Sat Sep 30 09:38:29 2023, Key ID f7ad3e5a1c9fd080
-glibc-2.34-83.el9_3.7-x86_64;RSA/SHA256, Wed Nov  8 08:11:42 2023, Key ID f7ad3e5a1c9fd080
-glibc-common-2.34-83.el9_3.7-x86_64;RSA/SHA256, Wed Nov  8 08:11:45 2023, Key ID f7ad3e5a1c9fd080
-glibc-minimal-langpack-2.34-83.el9_3.7-x86_64;RSA/SHA256, Wed Nov  8 08:14:12 2023, Key ID f7ad3e5a1c9fd080
+glibc-2.34-83.el9_3.12-x86_64;RSA/SHA256, Thu Mar  7 16:51:59 2024, Key ID f7ad3e5a1c9fd080
+glibc-common-2.34-83.el9_3.12-x86_64;RSA/SHA256, Thu Mar  7 16:52:00 2024, Key ID f7ad3e5a1c9fd080
+glibc-minimal-langpack-2.34-83.el9_3.12-x86_64;RSA/SHA256, Thu Mar  7 16:53:04 2024, Key ID f7ad3e5a1c9fd080
 gmp-6.2.0-13.el9-x86_64;RSA/SHA256, Sat Sep 30 09:39:44 2023, Key ID f7ad3e5a1c9fd080
 gnupg2-2.3.3-4.el9-x86_64;RSA/SHA256, Sat Sep 30 09:39:45 2023, Key ID f7ad3e5a1c9fd080
 gnutls-3.7.6-23.el9_3.3-x86_64;RSA/SHA256, Mon Jan 29 10:43:54 2024, Key ID f7ad3e5a1c9fd080
@@ -35,7 +35,7 @@ libblkid-2.37.4-15.el9-x86_64;RSA/SHA256, Sat Sep 30 09:40:16 2023, Key ID f7ad3
 libcap-2.48-9.el9_2-x86_64;RSA/SHA256, Wed Sep 13 13:16:14 2023, Key ID f7ad3e5a1c9fd080
 libcap-ng-0.8.2-7.el9-x86_64;RSA/SHA256, Fri Jun  3 08:34:43 2022, Key ID f7ad3e5a1c9fd080
 libcom_err-1.46.5-3.el9-x86_64;RSA/SHA256, Wed Oct 19 12:07:58 2022, Key ID f7ad3e5a1c9fd080
-libcurl-minimal-7.76.1-26.el9_3.2-x86_64;RSA/SHA256, Wed Nov  8 10:17:27 2023, Key ID f7ad3e5a1c9fd080
+libcurl-minimal-7.76.1-26.el9_3.3-x86_64;RSA/SHA256, Thu Mar  7 06:32:37 2024, Key ID f7ad3e5a1c9fd080
 libdnf-0.69.0-6.el9_3-x86_64;RSA/SHA256, Wed Nov  8 10:17:28 2023, Key ID f7ad3e5a1c9fd080
 libevent-2.1.12-6.el9-x86_64;RSA/SHA256, Fri Jun  3 08:34:11 2022, Key ID f7ad3e5a1c9fd080
 libffi-3.4.2-8.el9-x86_64;RSA/SHA256, Sat Sep 30 09:40:23 2023, Key ID f7ad3e5a1c9fd080
