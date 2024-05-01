@@ -18,7 +18,7 @@ dnf-data-4.14.0-8.el9.alma.1-noarch;RSA/SHA256, Wed Oct  4 19:57:07 2023, Key ID
 elfutils-default-yama-scope-0.189-3.el9-noarch;RSA/SHA256, Thu Sep 28 11:17:02 2023, Key ID d36cb86cb86b3716
 elfutils-libelf-0.189-3.el9-aarch64;RSA/SHA256, Thu Sep 28 11:17:32 2023, Key ID d36cb86cb86b3716
 elfutils-libs-0.189-3.el9-aarch64;RSA/SHA256, Thu Sep 28 11:14:10 2023, Key ID d36cb86cb86b3716
-expat-2.5.0-1.el9-aarch64;RSA/SHA256, Sat Apr  8 18:50:24 2023, Key ID d36cb86cb86b3716
+expat-2.5.0-1.el9_3.1-aarch64;RSA/SHA256, Fri Mar 29 14:28:14 2024, Key ID d36cb86cb86b3716
 file-libs-5.39-14.el9-aarch64;RSA/SHA256, Thu Sep 28 10:38:18 2023, Key ID d36cb86cb86b3716
 filesystem-3.16-2.el9-aarch64;RSA/SHA256, Fri Mar 25 17:53:20 2022, Key ID d36cb86cb86b3716
 findutils-4.8.0-6.el9-aarch64;RSA/SHA256, Thu Sep 28 10:25:48 2023, Key ID d36cb86cb86b3716
@@ -32,7 +32,7 @@ glibc-gconv-extra-2.34-83.el9_3.12-aarch64;RSA/SHA256, Wed Mar  6 12:03:21 2024,
 glibc-minimal-langpack-2.34-83.el9_3.12-aarch64;RSA/SHA256, Wed Mar  6 12:02:40 2024, Key ID d36cb86cb86b3716
 gmp-6.2.0-13.el9-aarch64;RSA/SHA256, Tue Oct 10 11:20:53 2023, Key ID d36cb86cb86b3716
 gnupg2-2.3.3-4.el9-aarch64;RSA/SHA256, Thu Sep 28 09:58:19 2023, Key ID d36cb86cb86b3716
-gnutls-3.7.6-23.el9_3.3-aarch64;RSA/SHA256, Mon Jan 29 09:03:16 2024, Key ID d36cb86cb86b3716
+gnutls-3.7.6-23.el9_3.4-aarch64;RSA/SHA256, Thu Apr 18 07:53:43 2024, Key ID d36cb86cb86b3716
 gpgme-1.15.1-6.el9-aarch64;RSA/SHA256, Wed Apr  6 13:11:17 2022, Key ID d36cb86cb86b3716
 grep-3.6-5.el9-aarch64;RSA/SHA256, Fri Feb 25 13:34:57 2022, Key ID d36cb86cb86b3716
 gzip-1.12-1.el9-aarch64;RSA/SHA256, Mon Oct 17 14:23:30 2022, Key ID d36cb86cb86b3716
