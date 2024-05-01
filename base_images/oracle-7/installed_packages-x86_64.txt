@@ -97,7 +97,7 @@ oraclelinux-release-7.9-1.0.11.el7-x86_64;RSA/SHA256, Tue Jun  6 15:34:08 2023, 
 oraclelinux-release-el7-1.0-17.el7-x86_64;RSA/SHA256, Wed Jun  9 03:57:48 2021, Key ID 72f97b74ec551f03
 p11-kit-0.23.5-3.el7-x86_64;RSA/SHA256, Thu Aug  3 05:46:26 2017, Key ID 72f97b74ec551f03
 p11-kit-trust-0.23.5-3.el7-x86_64;RSA/SHA256, Thu Aug  3 05:46:26 2017, Key ID 72f97b74ec551f03
-pam-1.1.8-23.el7-x86_64;RSA/SHA256, Fri Nov 22 04:53:28 2019, Key ID 72f97b74ec551f03
+pam-1.1.8-23.0.1.el7-x86_64;RSA/SHA256, Wed Apr 10 09:22:51 2024, Key ID 72f97b74ec551f03
 passwd-0.79-6.el7-x86_64;RSA/SHA256, Fri Nov 22 08:22:32 2019, Key ID 72f97b74ec551f03
 pcre-8.32-17.el7-x86_64;RSA/SHA256, Fri May 26 08:24:10 2017, Key ID 72f97b74ec551f03
 pinentry-0.8.1-17.el7-x86_64;RSA/SHA256, Wed Aug 31 01:03:30 2016, Key ID 72f97b74ec551f03
