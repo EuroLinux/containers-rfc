@@ -20,7 +20,7 @@ glibc-common-2.34-83.el9_3.12-x86_64;RSA/SHA256, Thu Mar  7 16:52:00 2024, Key I
 glibc-minimal-langpack-2.34-83.el9_3.12-x86_64;RSA/SHA256, Thu Mar  7 16:53:04 2024, Key ID f7ad3e5a1c9fd080
 gmp-6.2.0-13.el9-x86_64;RSA/SHA256, Sat Sep 30 09:39:44 2023, Key ID f7ad3e5a1c9fd080
 gnupg2-2.3.3-4.el9-x86_64;RSA/SHA256, Sat Sep 30 09:39:45 2023, Key ID f7ad3e5a1c9fd080
-gnutls-3.7.6-23.el9_3.3-x86_64;RSA/SHA256, Mon Jan 29 10:43:54 2024, Key ID f7ad3e5a1c9fd080
+gnutls-3.7.6-23.el9_3.4-x86_64;RSA/SHA256, Fri Apr 19 12:33:12 2024, Key ID f7ad3e5a1c9fd080
 gobject-introspection-1.68.0-11.el9-x86_64;RSA/SHA256, Fri Mar 31 07:01:57 2023, Key ID f7ad3e5a1c9fd080
 gpgme-1.15.1-6.el9-x86_64;RSA/SHA256, Fri Jun  3 08:32:54 2022, Key ID f7ad3e5a1c9fd080
 grep-3.6-5.el9-x86_64;RSA/SHA256, Fri Jun  3 08:32:51 2022, Key ID f7ad3e5a1c9fd080
