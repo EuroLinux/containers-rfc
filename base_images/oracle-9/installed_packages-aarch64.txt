@@ -23,10 +23,10 @@ fonts-filesystem-2.0.5-7.el9.1-noarch;RSA/SHA256, Thu May  5 23:32:32 2022, Key 
 gawk-5.1.0-6.el9-aarch64;RSA/SHA256, Sat May  7 10:33:49 2022, Key ID bc4d06a08d8b756f
 gdbm-libs-1.19-4.el9-aarch64;RSA/SHA256, Sun Feb 13 00:43:57 2022, Key ID bc4d06a08d8b756f
 glib2-2.68.4-14.el9-aarch64;RSA/SHA256, Tue Apr  9 21:14:31 2024, Key ID bc4d06a08d8b756f
-glibc-2.34-100.0.1.el9-aarch64;RSA/SHA256, Tue Apr 30 21:42:39 2024, Key ID bc4d06a08d8b756f
-glibc-common-2.34-100.0.1.el9-aarch64;RSA/SHA256, Tue Apr 30 21:42:40 2024, Key ID bc4d06a08d8b756f
-glibc-gconv-extra-2.34-100.0.1.el9-aarch64;RSA/SHA256, Tue Apr 30 21:42:45 2024, Key ID bc4d06a08d8b756f
-glibc-minimal-langpack-2.34-100.0.1.el9-aarch64;RSA/SHA256, Tue Apr 30 21:43:59 2024, Key ID bc4d06a08d8b756f
+glibc-2.34-100.0.1.el9_4.2-aarch64;RSA/SHA256, Wed May 29 18:59:44 2024, Key ID bc4d06a08d8b756f
+glibc-common-2.34-100.0.1.el9_4.2-aarch64;RSA/SHA256, Wed May 29 18:59:45 2024, Key ID bc4d06a08d8b756f
+glibc-gconv-extra-2.34-100.0.1.el9_4.2-aarch64;RSA/SHA256, Wed May 29 18:59:50 2024, Key ID bc4d06a08d8b756f
+glibc-minimal-langpack-2.34-100.0.1.el9_4.2-aarch64;RSA/SHA256, Wed May 29 19:00:49 2024, Key ID bc4d06a08d8b756f
 gmp-6.2.0-13.el9-aarch64;RSA/SHA256, Sat Oct 14 01:55:40 2023, Key ID bc4d06a08d8b756f
 gnupg2-2.3.3-4.el9-aarch64;RSA/SHA256, Sat Oct 14 11:19:07 2023, Key ID bc4d06a08d8b756f
 gnutls-3.8.3-4.el9_4-aarch64;RSA/SHA256, Fri May  3 10:18:22 2024, Key ID bc4d06a08d8b756f
