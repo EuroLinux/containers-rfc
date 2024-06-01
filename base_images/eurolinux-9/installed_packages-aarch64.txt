@@ -25,10 +25,10 @@ gawk-5.1.0-6.el9-aarch64;RSA/SHA256, Tue May 31 08:43:40 2022, Key ID f7ad3e5a1c
 gdb-gdbserver-10.2-13.el9-aarch64;RSA/SHA256, Fri May  3 09:40:25 2024, Key ID f7ad3e5a1c9fd080
 gdbm-libs-1.19-4.el9-aarch64;RSA/SHA256, Tue May 31 08:43:46 2022, Key ID f7ad3e5a1c9fd080
 glib2-2.68.4-14.el9-aarch64;RSA/SHA256, Thu May  2 12:29:02 2024, Key ID f7ad3e5a1c9fd080
-glibc-2.34-100.el9-aarch64;RSA/SHA256, Thu May  2 08:38:43 2024, Key ID f7ad3e5a1c9fd080
-glibc-common-2.34-100.el9-aarch64;RSA/SHA256, Thu May  2 08:38:44 2024, Key ID f7ad3e5a1c9fd080
-glibc-gconv-extra-2.34-100.el9-aarch64;RSA/SHA256, Thu May  2 08:38:46 2024, Key ID f7ad3e5a1c9fd080
-glibc-minimal-langpack-2.34-100.el9-aarch64;RSA/SHA256, Thu May  2 08:40:00 2024, Key ID f7ad3e5a1c9fd080
+glibc-2.34-100.el9_4.2-aarch64;RSA/SHA256, Mon May 27 15:23:32 2024, Key ID f7ad3e5a1c9fd080
+glibc-common-2.34-100.el9_4.2-aarch64;RSA/SHA256, Mon May 27 15:23:34 2024, Key ID f7ad3e5a1c9fd080
+glibc-gconv-extra-2.34-100.el9_4.2-aarch64;RSA/SHA256, Mon May 27 15:23:35 2024, Key ID f7ad3e5a1c9fd080
+glibc-minimal-langpack-2.34-100.el9_4.2-aarch64;RSA/SHA256, Mon May 27 15:24:47 2024, Key ID f7ad3e5a1c9fd080
 gmp-6.2.0-13.el9-aarch64;RSA/SHA256, Mon Oct  9 07:43:33 2023, Key ID f7ad3e5a1c9fd080
 gnupg2-2.3.3-4.el9-aarch64;RSA/SHA256, Mon Oct  9 07:43:34 2023, Key ID f7ad3e5a1c9fd080
 gnutls-3.8.3-4.el9_4-aarch64;RSA/SHA256, Sun May  5 01:32:53 2024, Key ID f7ad3e5a1c9fd080
@@ -63,7 +63,7 @@ libidn2-2.3.0-7.el9-aarch64;RSA/SHA256, Tue May 31 08:45:54 2022, Key ID f7ad3e5
 libksba-1.5.1-6.el9_1-aarch64;RSA/SHA256, Fri Feb 17 03:23:12 2023, Key ID f7ad3e5a1c9fd080
 libmodulemd-2.13.0-2.el9-aarch64;RSA/SHA256, Tue May 31 14:39:43 2022, Key ID f7ad3e5a1c9fd080
 libmount-2.37.4-18.el9-aarch64;RSA/SHA256, Thu May  2 08:37:51 2024, Key ID f7ad3e5a1c9fd080
-libnghttp2-1.43.0-5.el9_3.1-aarch64;RSA/SHA256, Wed Nov  8 08:34:42 2023, Key ID f7ad3e5a1c9fd080
+libnghttp2-1.43.0-5.el9_4.3-aarch64;RSA/SHA256, Fri May 31 08:43:22 2024, Key ID f7ad3e5a1c9fd080
 librepo-1.14.5-2.el9-aarch64;RSA/SHA256, Sun May  5 01:33:07 2024, Key ID f7ad3e5a1c9fd080
 libreport-filesystem-2.15.2-6.el9-noarch;RSA/SHA256, Wed Jun 22 07:21:50 2022, Key ID f7ad3e5a1c9fd080
 libselinux-3.6-1.el9-aarch64;RSA/SHA256, Sun May  5 01:33:09 2024, Key ID f7ad3e5a1c9fd080
