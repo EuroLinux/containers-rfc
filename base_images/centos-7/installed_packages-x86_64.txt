@@ -5,7 +5,7 @@ bash-4.2.46-35.el7_9-x86_64;RSA/SHA256, Wed Dec  1 14:13:51 2021, Key ID 24c6a8a
 binutils-2.27-44.base.el7_9.1-x86_64;RSA/SHA256, Tue Nov  2 12:16:54 2021, Key ID 24c6a8a7f4a80eb5
 bzip2-libs-1.0.6-13.el7-x86_64;RSA/SHA256, Wed Nov 25 14:18:43 2015, Key ID 24c6a8a7f4a80eb5
 ca-certificates-2023.2.60_v7.0.306-72.el7_9-noarch;RSA/SHA256, Thu Oct 19 14:04:16 2023, Key ID 24c6a8a7f4a80eb5
-centos-release-7-9.2009.1.el7.centos-x86_64;RSA/SHA256, Wed Dec  2 16:35:28 2020, Key ID 24c6a8a7f4a80eb5
+centos-release-7-9.2009.2.el7.centos-x86_64;RSA/SHA256, Thu May 23 14:19:01 2024, Key ID 24c6a8a7f4a80eb5
 chkconfig-1.7.6-1.el7-x86_64;RSA/SHA256, Wed Oct 14 18:47:10 2020, Key ID 24c6a8a7f4a80eb5
 coreutils-8.22-24.el7_9.2-x86_64;RSA/SHA256, Wed Nov 18 14:16:51 2020, Key ID 24c6a8a7f4a80eb5
 cpio-2.11-28.el7-x86_64;RSA/SHA256, Wed Oct 14 18:47:26 2020, Key ID 24c6a8a7f4a80eb5
