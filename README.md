@@ -13,7 +13,7 @@ with a GitHub account can participate.
 ## Currently Supported Base Images:
 
 - EuroLinux 6 - provided by [EuroLinux 6 ELS](https://en.euro-linux.com/eurolinux/euroels/)
-- EuroLinux 7 
+- EuroLinux 7
 - EuroLinux 8
 - EuroLinux 9
 - CentOS 7
@@ -30,9 +30,12 @@ with a GitHub account can participate.
 
 ## Legacy Base Images:
 
+None ATM.
+
 ## Issues
-Please use templates. If there is no proper template,  consider making an issue about the missing template :).
-If you are a customer with a valid subscription, then you might use our support portal to report a bug/problem.
+Please use templates. If there is no proper template,  consider making an issue
+about the missing template :). If you are a customer with a valid subscription,
+then you might use our support portal to report a bug/problem.
 
 ## Changes
 
@@ -40,4 +43,5 @@ If you are a customer with a valid subscription, then you might use our support 
   they are available strictly from the container image.** They also clutter the
   repository. The :epository used to gain gain about 20 GiB each year and it was purged
   multiple times with the BFG repo cleaner.
-- With that change, we provide a packages manifest with an image.
+- With that change, we provide a packages manifest for all images. It is a list
+  of packages that are installed in the image. It is available in `installed_packages-$ARCH.txt`.
