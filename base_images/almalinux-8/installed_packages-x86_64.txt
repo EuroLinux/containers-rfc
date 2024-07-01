@@ -133,7 +133,7 @@ libutempter-1.1.6-14.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:23 2021, Key ID 51d
 libuuid-2.32.1-46.el8-x86_64;RSA/SHA256, Sat Apr  6 20:56:43 2024, Key ID 2ae81e8aced7258b
 libverto-0.3.2-2.el8-x86_64;RSA/SHA256, Tue Oct 11 06:20:53 2022, Key ID 51d6647ec21ad6ea
 libxcrypt-4.1.1-6.el8-x86_64;RSA/SHA256, Sat Oct  9 07:33:51 2021, Key ID 51d6647ec21ad6ea
-libxml2-2.9.7-18.el8_9-x86_64;RSA/SHA256, Thu Jan 11 18:42:53 2024, Key ID 51d6647ec21ad6ea
+libxml2-2.9.7-18.el8_10.1-x86_64;RSA/SHA256, Wed Jun  5 15:15:15 2024, Key ID 2ae81e8aced7258b
 libyaml-0.1.7-5.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:26 2021, Key ID 51d6647ec21ad6ea
 libzstd-1.4.4-1.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:26 2021, Key ID 51d6647ec21ad6ea
 lua-libs-5.3.4-12.el8-x86_64;RSA/SHA256, Sat Oct  9 07:34:20 2021, Key ID 51d6647ec21ad6ea
@@ -184,7 +184,7 @@ python3-libcomps-0.1.18-1.el8-x86_64;RSA/SHA256, Tue Apr 19 19:20:05 2022, Key I
 python3-libdnf-0.63.0-19.el8.alma.2-x86_64;RSA/SHA256, Fri May 24 06:04:08 2024, Key ID 2ae81e8aced7258b
 python3-librepo-1.14.2-5.el8-x86_64;RSA/SHA256, Sat Mar 30 17:47:46 2024, Key ID 2ae81e8aced7258b
 python3-libs-3.6.8-62.el8_10.alma.1-x86_64;RSA/SHA256, Thu May 23 17:27:55 2024, Key ID 2ae81e8aced7258b
-python3-libxml2-2.9.7-18.el8_9-x86_64;RSA/SHA256, Thu Jan 11 18:43:44 2024, Key ID 51d6647ec21ad6ea
+python3-libxml2-2.9.7-18.el8_10.1-x86_64;RSA/SHA256, Wed Jun  5 15:15:16 2024, Key ID 2ae81e8aced7258b
 python3-pip-wheel-9.0.3-24.el8-noarch;RSA/SHA256, Sat Apr  6 21:38:49 2024, Key ID 2ae81e8aced7258b
 python3-pysocks-1.6.8-3.el8-noarch;RSA/SHA256, Thu Jan 14 09:21:04 2021, Key ID 51d6647ec21ad6ea
 python3-requests-2.20.0-3.el8_8-noarch;RSA/SHA256, Wed Aug  9 07:20:21 2023, Key ID 51d6647ec21ad6ea
