@@ -6,7 +6,7 @@ bzip2-libs-1.0.8-8.el9-aarch64;RSA/SHA256, Mon May 30 13:27:57 2022, Key ID f7ad
 ca-certificates-2023.2.60_v7.0.306-90.1.el9_2-noarch;RSA/SHA256, Wed Sep 13 13:15:32 2023, Key ID f7ad3e5a1c9fd080
 coreutils-single-8.32-35.el9-aarch64;RSA/SHA256, Thu May  2 08:38:15 2024, Key ID f7ad3e5a1c9fd080
 crypto-policies-20240202-1.git283706d.el9-noarch;RSA/SHA256, Mon Apr 22 15:08:00 2024, Key ID f7ad3e5a1c9fd080
-curl-minimal-7.76.1-29.el9_4-aarch64;RSA/SHA256, Thu May  2 12:28:25 2024, Key ID f7ad3e5a1c9fd080
+curl-minimal-7.76.1-29.el9_4.1-aarch64;RSA/SHA256, Tue Aug 20 10:07:29 2024, Key ID f7ad3e5a1c9fd080
 cyrus-sasl-lib-2.1.27-21.el9-aarch64;RSA/SHA256, Sun Apr 30 21:33:12 2023, Key ID f7ad3e5a1c9fd080
 dnf-data-4.14.0-9.el9-noarch;RSA/SHA256, Wed Apr 24 11:18:47 2024, Key ID f7ad3e5a1c9fd080
 el-release-9.4-2.0.el9-noarch;RSA/SHA256, Tue May  7 10:32:06 2024, Key ID f7ad3e5a1c9fd080
@@ -36,7 +36,7 @@ libblkid-2.37.4-18.el9-aarch64;RSA/SHA256, Thu May  2 08:37:49 2024, Key ID f7ad
 libcap-2.48-9.el9_2-aarch64;RSA/SHA256, Wed Sep 13 17:33:49 2023, Key ID f7ad3e5a1c9fd080
 libcap-ng-0.8.2-7.el9-aarch64;RSA/SHA256, Tue May 31 08:45:33 2022, Key ID f7ad3e5a1c9fd080
 libcom_err-1.46.5-5.el9-aarch64;RSA/SHA256, Thu May  2 08:40:10 2024, Key ID f7ad3e5a1c9fd080
-libcurl-minimal-7.76.1-29.el9_4-aarch64;RSA/SHA256, Thu May  2 12:29:33 2024, Key ID f7ad3e5a1c9fd080
+libcurl-minimal-7.76.1-29.el9_4.1-aarch64;RSA/SHA256, Tue Aug 20 10:07:40 2024, Key ID f7ad3e5a1c9fd080
 libdnf-0.69.0-8.el9-aarch64;RSA/SHA256, Mon May  6 09:51:33 2024, Key ID f7ad3e5a1c9fd080
 libevent-2.1.12-6.el9-aarch64;RSA/SHA256, Tue May 31 08:45:46 2022, Key ID f7ad3e5a1c9fd080
 libffi-3.4.2-8.el9-aarch64;RSA/SHA256, Mon Oct  9 07:43:57 2023, Key ID f7ad3e5a1c9fd080
@@ -91,7 +91,7 @@ sed-4.8-9.el9-aarch64;RSA/SHA256, Tue May 31 08:25:59 2022, Key ID f7ad3e5a1c9fd
 setup-2.13.7-10.el9-noarch;RSA/SHA256, Wed Apr 24 11:19:45 2024, Key ID f7ad3e5a1c9fd080
 shadow-utils-4.9-8.el9-aarch64;RSA/SHA256, Mon Oct  9 07:45:15 2023, Key ID f7ad3e5a1c9fd080
 sqlite-libs-3.34.1-7.el9_3-aarch64;RSA/SHA256, Thu Mar  7 18:44:19 2024, Key ID f7ad3e5a1c9fd080
-systemd-libs-252-32.el9_4-aarch64;RSA/SHA256, Thu May  2 12:31:03 2024, Key ID f7ad3e5a1c9fd080
+systemd-libs-252-32.el9_4.6-aarch64;RSA/SHA256, Wed Jul 31 08:31:50 2024, Key ID f7ad3e5a1c9fd080
 tzdata-2024a-1.el9-noarch;RSA/SHA256, Fri Feb  9 10:02:37 2024, Key ID f7ad3e5a1c9fd080
 xz-libs-5.2.5-8.el9_0-aarch64;RSA/SHA256, Mon Jul  4 13:46:06 2022, Key ID f7ad3e5a1c9fd080
 zlib-1.2.11-40.el9-aarch64;RSA/SHA256, Mon Oct  9 07:45:34 2023, Key ID f7ad3e5a1c9fd080
