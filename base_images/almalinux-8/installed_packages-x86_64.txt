@@ -4,7 +4,7 @@ audit-libs-3.1.2-1.el8-x86_64;RSA/SHA256, Sun Apr  7 00:54:35 2024, Key ID 2ae81
 basesystem-11-5.el8-noarch;RSA/SHA256, Thu Jan 14 09:18:17 2021, Key ID 51d6647ec21ad6ea
 bash-4.4.20-5.el8-x86_64;RSA/SHA256, Thu May 23 10:22:48 2024, Key ID 2ae81e8aced7258b
 brotli-1.0.6-3.el8-x86_64;RSA/SHA256, Thu Apr  8 17:06:19 2021, Key ID 51d6647ec21ad6ea
-bzip2-libs-1.0.6-26.el8-x86_64;RSA/SHA256, Thu Jan 14 09:18:22 2021, Key ID 51d6647ec21ad6ea
+bzip2-libs-1.0.6-27.el8_10.alma.1-x86_64;RSA/SHA256, Fri Nov 15 14:12:45 2024, Key ID 2ae81e8aced7258b
 ca-certificates-2024.2.69_v8.0.303-80.0.el8_10-noarch;RSA/SHA256, Thu Aug 22 06:19:24 2024, Key ID 2ae81e8aced7258b
 chkconfig-1.19.2-1.el8-x86_64;RSA/SHA256, Mon Oct 16 10:50:22 2023, Key ID 51d6647ec21ad6ea
 coreutils-single-8.30-15.el8-x86_64;RSA/SHA256, Mon Apr  3 18:53:08 2023, Key ID 51d6647ec21ad6ea
@@ -34,7 +34,7 @@ elfutils-debuginfod-client-0.190-2.el8-x86_64;RSA/SHA256, Sat Apr  6 22:59:42 20
 elfutils-default-yama-scope-0.190-2.el8-noarch;RSA/SHA256, Sat Apr  6 22:58:27 2024, Key ID 2ae81e8aced7258b
 elfutils-libelf-0.190-2.el8-x86_64;RSA/SHA256, Sat Apr  6 22:59:42 2024, Key ID 2ae81e8aced7258b
 elfutils-libs-0.190-2.el8-x86_64;RSA/SHA256, Sat Apr  6 22:59:40 2024, Key ID 2ae81e8aced7258b
-expat-2.2.5-15.el8_10-x86_64;RSA/SHA256, Tue Sep 24 06:32:33 2024, Key ID 2ae81e8aced7258b
+expat-2.2.5-16.el8_10-x86_64;RSA/SHA256, Wed Nov 13 06:03:52 2024, Key ID 2ae81e8aced7258b
 file-5.33-26.el8-x86_64;RSA/SHA256, Sat Apr  6 23:01:29 2024, Key ID 2ae81e8aced7258b
 file-libs-5.33-26.el8-x86_64;RSA/SHA256, Sat Apr  6 23:01:29 2024, Key ID 2ae81e8aced7258b
 filesystem-3.8-6.el8-x86_64;RSA/SHA256, Sat Oct  9 11:02:42 2021, Key ID 51d6647ec21ad6ea
@@ -44,7 +44,7 @@ gdbm-1.18-2.el8-x86_64;RSA/SHA256, Mon Oct 10 10:51:40 2022, Key ID 51d6647ec21a
 gdbm-libs-1.18-2.el8-x86_64;RSA/SHA256, Mon Oct 10 10:51:28 2022, Key ID 51d6647ec21ad6ea
 gettext-0.19.8.1-17.el8-x86_64;RSA/SHA256, Thu Jan 14 09:18:51 2021, Key ID 51d6647ec21ad6ea
 gettext-libs-0.19.8.1-17.el8-x86_64;RSA/SHA256, Thu Jan 14 09:18:51 2021, Key ID 51d6647ec21ad6ea
-glib2-2.56.4-162.el8-x86_64;RSA/SHA256, Thu May 23 14:15:00 2024, Key ID 2ae81e8aced7258b
+glib2-2.56.4-165.el8_10-x86_64;RSA/SHA256, Tue Nov  5 10:00:31 2024, Key ID 2ae81e8aced7258b
 glibc-2.28-251.el8_10.5-x86_64;RSA/SHA256, Tue Sep 24 09:36:22 2024, Key ID 2ae81e8aced7258b
 glibc-common-2.28-251.el8_10.5-x86_64;RSA/SHA256, Tue Sep 24 09:36:23 2024, Key ID 2ae81e8aced7258b
 glibc-gconv-extra-2.28-251.el8_10.5-x86_64;RSA/SHA256, Tue Sep 24 09:37:15 2024, Key ID 2ae81e8aced7258b
@@ -56,9 +56,9 @@ gnutls-3.6.16-8.el8_9.3-x86_64;RSA/SHA256, Fri Apr 12 05:03:01 2024, Key ID 2ae8
 gobject-introspection-1.56.1-1.el8-x86_64;RSA/SHA256, Thu Jan 14 09:19:13 2021, Key ID 51d6647ec21ad6ea
 gpgme-1.13.1-12.el8-x86_64;RSA/SHA256, Sat Apr  6 22:18:47 2024, Key ID 2ae81e8aced7258b
 grep-3.1-6.el8-x86_64;RSA/SHA256, Thu Jan 14 09:19:14 2021, Key ID 51d6647ec21ad6ea
-grub2-common-2.02-156.el8.alma.1-noarch;RSA/SHA256, Wed Apr 10 16:32:39 2024, Key ID 2ae81e8aced7258b
-grub2-tools-2.02-156.el8.alma.1-x86_64;RSA/SHA256, Wed Apr 10 16:32:52 2024, Key ID 2ae81e8aced7258b
-grub2-tools-minimal-2.02-156.el8.alma.1-x86_64;RSA/SHA256, Wed Apr 10 16:32:51 2024, Key ID 2ae81e8aced7258b
+grub2-common-2.02-158.el8_10.alma.1-noarch;RSA/SHA256, Tue Nov  5 11:01:45 2024, Key ID 2ae81e8aced7258b
+grub2-tools-2.02-158.el8_10.alma.1-x86_64;RSA/SHA256, Tue Nov  5 11:01:56 2024, Key ID 2ae81e8aced7258b
+grub2-tools-minimal-2.02-158.el8_10.alma.1-x86_64;RSA/SHA256, Tue Nov  5 11:01:56 2024, Key ID 2ae81e8aced7258b
 grubby-8.40-49.el8-x86_64;RSA/SHA256, Sat Apr  6 22:19:42 2024, Key ID 2ae81e8aced7258b
 gzip-1.9-13.el8_5-x86_64;RSA/SHA256, Wed Apr 27 10:34:16 2022, Key ID 51d6647ec21ad6ea
 hardlink-1.3-6.el8-x86_64;RSA/SHA256, Thu Jan 14 09:19:18 2021, Key ID 51d6647ec21ad6ea
@@ -74,7 +74,7 @@ keyutils-libs-1.5.10-9.el8-x86_64;RSA/SHA256, Sat Oct  9 07:28:29 2021, Key ID 5
 kmod-25-20.el8-x86_64;RSA/SHA256, Mon Apr  8 11:23:23 2024, Key ID 2ae81e8aced7258b
 kmod-libs-25-20.el8-x86_64;RSA/SHA256, Mon Apr  8 11:23:23 2024, Key ID 2ae81e8aced7258b
 kpartx-0.8.4-41.el8-x86_64;RSA/SHA256, Sat Apr  6 22:58:18 2024, Key ID 2ae81e8aced7258b
-krb5-libs-1.18.2-29.el8_10-x86_64;RSA/SHA256, Wed Aug 14 12:19:34 2024, Key ID 2ae81e8aced7258b
+krb5-libs-1.18.2-30.el8_10-x86_64;RSA/SHA256, Tue Nov  5 10:05:14 2024, Key ID 2ae81e8aced7258b
 libacl-2.2.53-3.el8-x86_64;RSA/SHA256, Sun Apr  7 00:53:37 2024, Key ID 2ae81e8aced7258b
 libarchive-3.3.3-5.el8-x86_64;RSA/SHA256, Mon Apr  3 22:21:52 2023, Key ID 51d6647ec21ad6ea
 libassuan-2.5.1-3.el8-x86_64;RSA/SHA256, Thu Jan 14 09:19:40 2021, Key ID 51d6647ec21ad6ea
@@ -144,14 +144,14 @@ ncurses-base-6.1-10.20180224.el8-noarch;RSA/SHA256, Mon Oct 16 08:37:03 2023, Ke
 ncurses-libs-6.1-10.20180224.el8-x86_64;RSA/SHA256, Mon Oct 16 08:25:17 2023, Key ID 51d6647ec21ad6ea
 nettle-3.4.1-7.el8-x86_64;RSA/SHA256, Mon Oct 11 10:39:08 2021, Key ID 51d6647ec21ad6ea
 npth-1.5-4.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:40 2021, Key ID 51d6647ec21ad6ea
-openldap-2.4.46-19.el8_10-x86_64;RSA/SHA256, Tue Jul  2 23:47:38 2024, Key ID 2ae81e8aced7258b
-openssl-1.1.1k-12.el8_9-x86_64;RSA/SHA256, Mon Dec 18 10:01:08 2023, Key ID 51d6647ec21ad6ea
-openssl-libs-1.1.1k-12.el8_9-x86_64;RSA/SHA256, Mon Dec 18 10:01:48 2023, Key ID 51d6647ec21ad6ea
+openldap-2.4.46-20.el8_10-x86_64;RSA/SHA256, Tue Nov  5 10:58:36 2024, Key ID 2ae81e8aced7258b
+openssl-1.1.1k-14.el8_6-x86_64;RSA/SHA256, Wed Oct  9 14:53:38 2024, Key ID 2ae81e8aced7258b
+openssl-libs-1.1.1k-14.el8_6-x86_64;RSA/SHA256, Wed Oct  9 14:53:38 2024, Key ID 2ae81e8aced7258b
 openssl-pkcs11-0.4.10-3.el8-x86_64;RSA/SHA256, Tue Apr  4 03:03:30 2023, Key ID 51d6647ec21ad6ea
 os-prober-1.74-9.el8-x86_64;RSA/SHA256, Mon Oct 11 10:40:51 2021, Key ID 51d6647ec21ad6ea
 p11-kit-0.23.22-2.el8-x86_64;RSA/SHA256, Sun Apr  7 00:18:23 2024, Key ID 2ae81e8aced7258b
 p11-kit-trust-0.23.22-2.el8-x86_64;RSA/SHA256, Sun Apr  7 00:18:24 2024, Key ID 2ae81e8aced7258b
-pam-1.3.1-34.el8_10-x86_64;RSA/SHA256, Tue Jul  2 23:47:46 2024, Key ID 2ae81e8aced7258b
+pam-1.3.1-36.el8_10-x86_64;RSA/SHA256, Wed Nov 27 06:05:08 2024, Key ID 2ae81e8aced7258b
 passwd-0.80-4.el8-x86_64;RSA/SHA256, Tue Apr 19 23:42:56 2022, Key ID 51d6647ec21ad6ea
 pcre2-10.32-3.el8_6-x86_64;RSA/SHA256, Wed Aug  3 22:13:43 2022, Key ID 51d6647ec21ad6ea
 pcre-8.42-6.el8-x86_64;RSA/SHA256, Sat Oct  9 09:21:30 2021, Key ID 51d6647ec21ad6ea
@@ -159,7 +159,7 @@ pigz-2.4-4.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:54 2021, Key ID 51d6647ec21ad
 pkgconf-1.4.2-1.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:54 2021, Key ID 51d6647ec21ad6ea
 pkgconf-m4-1.4.2-1.el8-noarch;RSA/SHA256, Thu Jan 14 09:20:54 2021, Key ID 51d6647ec21ad6ea
 pkgconf-pkg-config-1.4.2-1.el8-x86_64;RSA/SHA256, Thu Jan 14 09:20:54 2021, Key ID 51d6647ec21ad6ea
-platform-python-3.6.8-67.el8_10.alma.1-x86_64;RSA/SHA256, Tue Sep 24 13:24:37 2024, Key ID 2ae81e8aced7258b
+platform-python-3.6.8-69.el8_10.alma.1-x86_64;RSA/SHA256, Thu Dec  5 14:14:43 2024, Key ID 2ae81e8aced7258b
 platform-python-pip-9.0.3-24.el8-noarch;RSA/SHA256, Sat Apr  6 21:38:50 2024, Key ID 2ae81e8aced7258b
 platform-python-setuptools-39.2.0-8.el8_10-noarch;RSA/SHA256, Mon Aug 19 09:10:13 2024, Key ID 2ae81e8aced7258b
 popt-1.18-1.el8-x86_64;RSA/SHA256, Sat Apr 10 06:50:07 2021, Key ID 51d6647ec21ad6ea
@@ -183,7 +183,7 @@ python3-inotify-0.9.6-13.el8-noarch;RSA/SHA256, Thu Jan 14 09:20:59 2021, Key ID
 python3-libcomps-0.1.18-1.el8-x86_64;RSA/SHA256, Tue Apr 19 19:20:05 2022, Key ID 51d6647ec21ad6ea
 python3-libdnf-0.63.0-20.el8_10.alma.1-x86_64;RSA/SHA256, Wed Aug 14 09:56:56 2024, Key ID 2ae81e8aced7258b
 python3-librepo-1.14.2-5.el8-x86_64;RSA/SHA256, Sat Mar 30 17:47:46 2024, Key ID 2ae81e8aced7258b
-python3-libs-3.6.8-67.el8_10.alma.1-x86_64;RSA/SHA256, Tue Sep 24 13:24:37 2024, Key ID 2ae81e8aced7258b
+python3-libs-3.6.8-69.el8_10.alma.1-x86_64;RSA/SHA256, Thu Dec  5 14:14:43 2024, Key ID 2ae81e8aced7258b
 python3-libxml2-2.9.7-18.el8_10.1-x86_64;RSA/SHA256, Wed Jun  5 15:15:16 2024, Key ID 2ae81e8aced7258b
 python3-pip-wheel-9.0.3-24.el8-noarch;RSA/SHA256, Sat Apr  6 21:38:49 2024, Key ID 2ae81e8aced7258b
 python3-pysocks-1.6.8-3.el8-noarch;RSA/SHA256, Thu Jan 14 09:21:04 2021, Key ID 51d6647ec21ad6ea
@@ -214,7 +214,7 @@ tar-1.30-9.el8-x86_64;RSA/SHA256, Tue Apr  4 21:11:47 2023, Key ID 51d6647ec21ad
 tpm2-tss-2.3.2-6.el8-x86_64;RSA/SHA256, Sat Apr  6 20:55:35 2024, Key ID 2ae81e8aced7258b
 trousers-0.3.15-2.el8-x86_64;RSA/SHA256, Sat Apr  6 20:56:06 2024, Key ID 2ae81e8aced7258b
 trousers-lib-0.3.15-2.el8-x86_64;RSA/SHA256, Sat Apr  6 20:56:06 2024, Key ID 2ae81e8aced7258b
-tzdata-2024a-1.el8-noarch;RSA/SHA256, Fri Feb  9 06:00:51 2024, Key ID 2ae81e8aced7258b
+tzdata-2024b-4.el8-noarch;RSA/SHA256, Tue Nov  5 09:54:34 2024, Key ID 2ae81e8aced7258b
 usermode-1.113-2.el8-x86_64;RSA/SHA256, Sat Oct  9 10:26:32 2021, Key ID 51d6647ec21ad6ea
 util-linux-2.32.1-46.el8-x86_64;RSA/SHA256, Sat Apr  6 20:56:42 2024, Key ID 2ae81e8aced7258b
 vim-minimal-8.0.1763-19.el8_6.4-x86_64;RSA/SHA256, Wed Aug  3 22:12:07 2022, Key ID 51d6647ec21ad6ea
