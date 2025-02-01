@@ -95,9 +95,9 @@ oraclelinux-release-9.5-1.0.5.el9-x86_64;RSA/SHA256, Fri Nov 15 00:43:29 2024, K
 oraclelinux-release-el9-1.0-18.el9-x86_64;RSA/SHA256, Thu Nov 14 16:44:29 2024, Key ID bc4d06a08d8b756f
 p11-kit-0.25.3-3.el9_5-x86_64;RSA/SHA256, Mon Dec 23 12:00:57 2024, Key ID bc4d06a08d8b756f
 p11-kit-trust-0.25.3-3.el9_5-x86_64;RSA/SHA256, Mon Dec 23 12:00:58 2024, Key ID bc4d06a08d8b756f
+pcre-8.44-4.el9-x86_64;RSA/SHA256, Fri Oct 25 20:15:28 2024, Key ID bc4d06a08d8b756f
 pcre2-10.40-6.0.1.el9-x86_64;RSA/SHA256, Wed Oct 30 00:16:11 2024, Key ID bc4d06a08d8b756f
 pcre2-syntax-10.40-6.0.1.el9-noarch;RSA/SHA256, Wed Oct 30 00:16:05 2024, Key ID bc4d06a08d8b756f
-pcre-8.44-4.el9-x86_64;RSA/SHA256, Fri Oct 25 20:15:28 2024, Key ID bc4d06a08d8b756f
 popt-1.18-8.el9-x86_64;RSA/SHA256, Sun Jan 23 01:41:49 2022, Key ID bc4d06a08d8b756f
 python3-3.9.21-1.el9_5-x86_64;RSA/SHA256, Thu Dec 12 12:27:43 2024, Key ID bc4d06a08d8b756f
 python3-dnf-4.14.0-17.0.1.el9-noarch;RSA/SHA256, Mon Oct 28 11:00:06 2024, Key ID bc4d06a08d8b756f
