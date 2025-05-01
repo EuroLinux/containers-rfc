@@ -16,7 +16,7 @@ dnf-data-4.14.0-17.0.1.el9-noarch;RSA/SHA256, Mon Oct 28 11:00:02 2024, Key ID b
 elfutils-default-yama-scope-0.191-4.el9-noarch;RSA/SHA256, Fri Oct 25 00:34:08 2024, Key ID bc4d06a08d8b756f
 elfutils-libelf-0.191-4.el9-x86_64;RSA/SHA256, Fri Oct 25 00:34:14 2024, Key ID bc4d06a08d8b756f
 elfutils-libs-0.191-4.el9-x86_64;RSA/SHA256, Fri Oct 25 00:34:16 2024, Key ID bc4d06a08d8b756f
-expat-2.5.0-3.el9_5.1-x86_64;RSA/SHA256, Fri Nov 15 01:04:57 2024, Key ID bc4d06a08d8b756f
+expat-2.5.0-3.el9_5.3-x86_64;RSA/SHA256, Wed Apr  2 18:15:27 2025, Key ID bc4d06a08d8b756f
 file-libs-5.39-16.el9-x86_64;RSA/SHA256, Tue Apr  9 02:55:01 2024, Key ID bc4d06a08d8b756f
 filesystem-3.16-5.el9-x86_64;RSA/SHA256, Sat Oct 26 06:10:44 2024, Key ID bc4d06a08d8b756f
 findutils-4.8.0-7.el9-x86_64;RSA/SHA256, Sat Oct 26 07:49:27 2024, Key ID bc4d06a08d8b756f
@@ -24,10 +24,10 @@ fonts-filesystem-2.0.5-7.el9.1-noarch;RSA/SHA256, Thu May  5 23:32:32 2022, Key 
 gawk-5.1.0-6.el9-x86_64;RSA/SHA256, Sat May  7 10:33:44 2022, Key ID bc4d06a08d8b756f
 gdbm-libs-1.23-1.el9-x86_64;RSA/SHA256, Fri Oct 25 19:24:38 2024, Key ID bc4d06a08d8b756f
 glib2-2.68.4-14.el9_4.1-x86_64;RSA/SHA256, Mon Sep  9 08:21:37 2024, Key ID bc4d06a08d8b756f
-glibc-2.34-125.0.1.el9_5.3-x86_64;RSA/SHA256, Mon Mar 10 15:01:39 2025, Key ID bc4d06a08d8b756f
-glibc-common-2.34-125.0.1.el9_5.3-x86_64;RSA/SHA256, Mon Mar 10 15:03:44 2025, Key ID bc4d06a08d8b756f
-glibc-gconv-extra-2.34-125.0.1.el9_5.3-x86_64;RSA/SHA256, Mon Mar 10 15:01:53 2025, Key ID bc4d06a08d8b756f
-glibc-minimal-langpack-2.34-125.0.1.el9_5.3-x86_64;RSA/SHA256, Mon Mar 10 15:03:51 2025, Key ID bc4d06a08d8b756f
+glibc-2.34-125.0.1.el9_5.8-x86_64;RSA/SHA256, Mon Apr 28 17:24:08 2025, Key ID bc4d06a08d8b756f
+glibc-common-2.34-125.0.1.el9_5.8-x86_64;RSA/SHA256, Mon Apr 28 17:25:54 2025, Key ID bc4d06a08d8b756f
+glibc-gconv-extra-2.34-125.0.1.el9_5.8-x86_64;RSA/SHA256, Mon Apr 28 17:23:51 2025, Key ID bc4d06a08d8b756f
+glibc-minimal-langpack-2.34-125.0.1.el9_5.8-x86_64;RSA/SHA256, Mon Apr 28 17:26:01 2025, Key ID bc4d06a08d8b756f
 gmp-6.2.0-13.el9-x86_64;RSA/SHA256, Sat Oct 14 01:55:40 2023, Key ID bc4d06a08d8b756f
 gnupg2-2.3.3-4.el9-x86_64;RSA/SHA256, Sat Oct 14 11:19:07 2023, Key ID bc4d06a08d8b756f
 gnutls-3.8.3-4.el9_4-x86_64;RSA/SHA256, Fri May  3 10:18:20 2024, Key ID bc4d06a08d8b756f
@@ -92,7 +92,7 @@ openssl-fips-provider-3.0.7-6.0.1.el9_5-x86_64;RSA/SHA256, Tue Nov 12 22:58:14 2
 openssl-fips-provider-so-3.0.7-6.0.1.el9_5-x86_64;RSA/SHA256, Tue Nov 12 22:58:12 2024, Key ID bc4d06a08d8b756f
 openssl-libs-3.2.2-6.0.1.el9_5.1-x86_64;RSA/SHA256, Wed Feb 12 09:41:09 2025, Key ID bc4d06a08d8b756f
 oraclelinux-release-9.5-1.0.5.el9-x86_64;RSA/SHA256, Fri Nov 15 00:43:29 2024, Key ID bc4d06a08d8b756f
-oraclelinux-release-el9-1.0-18.el9-x86_64;RSA/SHA256, Thu Nov 14 16:44:29 2024, Key ID bc4d06a08d8b756f
+oraclelinux-release-el9-1.0-19.el9-x86_64;RSA/SHA256, Fri Mar 28 09:11:57 2025, Key ID bc4d06a08d8b756f
 p11-kit-0.25.3-3.el9_5-x86_64;RSA/SHA256, Mon Dec 23 12:00:57 2024, Key ID bc4d06a08d8b756f
 p11-kit-trust-0.25.3-3.el9_5-x86_64;RSA/SHA256, Mon Dec 23 12:00:58 2024, Key ID bc4d06a08d8b756f
 pcre-8.44-4.el9-x86_64;RSA/SHA256, Fri Oct 25 20:15:28 2024, Key ID bc4d06a08d8b756f
