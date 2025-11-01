@@ -120,7 +120,7 @@ sqlite-libs-3.34.1-8.el9_6-x86_64;RSA/SHA256, Tue Jul 29 08:13:17 2025, Key ID d
 tar-1.34-7.el9-x86_64;RSA/SHA256, Thu Oct  3 05:34:46 2024, Key ID d36cb86cb86b3716
 tpm2-tss-3.2.3-1.el9-x86_64;RSA/SHA256, Thu Oct  3 05:35:09 2024, Key ID d36cb86cb86b3716
 tzdata-2025b-1.el9-noarch;RSA/SHA256, Mon Mar 31 05:39:07 2025, Key ID d36cb86cb86b3716
-vim-minimal-8.2.2637-22.el9_6-x86_64;RSA/SHA256, Wed May 14 04:38:02 2025, Key ID d36cb86cb86b3716
+vim-minimal-8.2.2637-22.el9_6.1-x86_64;RSA/SHA256, Tue Oct 14 10:07:44 2025, Key ID d36cb86cb86b3716
 xz-libs-5.2.5-8.el9_0-x86_64;RSA/SHA256, Wed Jun  8 09:02:41 2022, Key ID d36cb86cb86b3716
 yum-4.14.0-25.el9.alma.1-noarch;RSA/SHA256, Wed Mar 12 11:23:25 2025, Key ID d36cb86cb86b3716
 zlib-1.2.11-40.el9-x86_64;RSA/SHA256, Tue Sep 26 10:43:58 2023, Key ID d36cb86cb86b3716
