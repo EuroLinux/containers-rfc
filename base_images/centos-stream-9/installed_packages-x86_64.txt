@@ -4,7 +4,7 @@ audit-libs-3.1.5-7.el9-x86_64;RSA/SHA256, Mon Apr 14 20:59:25 2025, Key ID 05b55
 basesystem-11-13.el9-noarch;RSA/SHA256, Wed Aug 11 23:44:57 2021, Key ID 05b555b38483c65d
 bash-5.1.8-9.el9-x86_64;RSA/SHA256, Mon Apr  1 23:11:18 2024, Key ID 05b555b38483c65d
 bzip2-libs-1.0.8-10.el9-x86_64;RSA/SHA256, Fri Jan 17 07:22:50 2025, Key ID 05b555b38483c65d
-ca-certificates-2024.2.69_v8.0.303-91.4.el9-noarch;RSA/SHA256, Tue Aug 20 09:46:39 2024, Key ID 05b555b38483c65d
+ca-certificates-2025.2.80_v9.0.305-91.el9-noarch;RSA/SHA256, Mon Oct 13 08:42:23 2025, Key ID 05b555b38483c65d
 centos-gpg-keys-9.0-30.el9-noarch;RSA/SHA256, Fri Jul 18 22:20:16 2025, Key ID 05b555b38483c65d
 centos-stream-release-9.0-30.el9-noarch;RSA/SHA256, Fri Jul 18 22:20:17 2025, Key ID 05b555b38483c65d
 centos-stream-repos-9.0-30.el9-noarch;RSA/SHA256, Fri Jul 18 22:20:17 2025, Key ID 05b555b38483c65d
@@ -28,9 +28,9 @@ gawk-5.1.0-6.el9-x86_64;RSA/SHA256, Thu Feb 17 01:15:43 2022, Key ID 05b555b3848
 gdb-gdbserver-16.3-2.el9-x86_64;RSA/SHA256, Sun Jul  6 22:43:22 2025, Key ID 05b555b38483c65d
 gdbm-libs-1.23-1.el9-x86_64;RSA/SHA256, Wed Apr 24 13:12:53 2024, Key ID 05b555b38483c65d
 glib2-2.68.4-16.el9-x86_64;RSA/SHA256, Wed Oct  9 12:09:44 2024, Key ID 05b555b38483c65d
-glibc-2.34-232.el9-x86_64;RSA/SHA256, Wed Sep 10 14:18:01 2025, Key ID 05b555b38483c65d
-glibc-common-2.34-232.el9-x86_64;RSA/SHA256, Wed Sep 10 14:18:05 2025, Key ID 05b555b38483c65d
-glibc-minimal-langpack-2.34-232.el9-x86_64;RSA/SHA256, Wed Sep 10 14:18:06 2025, Key ID 05b555b38483c65d
+glibc-2.34-237.el9-x86_64;RSA/SHA256, Tue Oct 21 06:17:12 2025, Key ID 05b555b38483c65d
+glibc-common-2.34-237.el9-x86_64;RSA/SHA256, Tue Oct 21 06:17:13 2025, Key ID 05b555b38483c65d
+glibc-minimal-langpack-2.34-237.el9-x86_64;RSA/SHA256, Tue Oct 21 06:17:46 2025, Key ID 05b555b38483c65d
 gmp-6.2.0-13.el9-x86_64;RSA/SHA256, Thu Aug 24 12:11:14 2023, Key ID 05b555b38483c65d
 gnupg2-2.3.3-4.el9-x86_64;RSA/SHA256, Fri Apr 28 21:21:08 2023, Key ID 05b555b38483c65d
 gnutls-3.8.3-9.el9-x86_64;RSA/SHA256, Thu Aug  7 15:04:10 2025, Key ID 05b555b38483c65d
