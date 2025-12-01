@@ -37,7 +37,7 @@ elfutils-debuginfod-client-0.190-2.el8-x86_64;RSA/SHA256, Tue Apr  2 21:29:40 20
 elfutils-default-yama-scope-0.190-2.el8-noarch;RSA/SHA256, Tue Apr  2 21:29:35 2024, Key ID 82562ea9ad986da3
 elfutils-libelf-0.190-2.el8-x86_64;RSA/SHA256, Tue Apr  2 21:29:40 2024, Key ID 82562ea9ad986da3
 elfutils-libs-0.190-2.el8-x86_64;RSA/SHA256, Tue Apr  2 21:29:40 2024, Key ID 82562ea9ad986da3
-expat-2.2.5-17.0.1.el8_10-x86_64;RSA/SHA256, Tue Apr 15 22:46:58 2025, Key ID 82562ea9ad986da3
+expat-2.5.0-1.el8_10-x86_64;RSA/SHA256, Thu Nov 20 12:24:11 2025, Key ID 82562ea9ad986da3
 file-5.33-27.el8_10-x86_64;RSA/SHA256, Tue Oct  7 07:47:52 2025, Key ID 82562ea9ad986da3
 file-libs-5.33-27.el8_10-x86_64;RSA/SHA256, Tue Oct  7 07:47:52 2025, Key ID 82562ea9ad986da3
 filesystem-3.8-6.el8-x86_64;RSA/SHA256, Sat Oct  9 13:35:47 2021, Key ID 82562ea9ad986da3
@@ -47,7 +47,7 @@ gdbm-1.18-2.el8-x86_64;RSA/SHA256, Sun Oct  2 15:48:51 2022, Key ID 82562ea9ad98
 gdbm-libs-1.18-2.el8-x86_64;RSA/SHA256, Sun Oct  2 15:48:51 2022, Key ID 82562ea9ad986da3
 gettext-0.19.8.1-17.el8-x86_64;RSA/SHA256, Mon Nov 11 09:59:38 2019, Key ID 82562ea9ad986da3
 gettext-libs-0.19.8.1-17.el8-x86_64;RSA/SHA256, Mon Nov 11 09:59:40 2019, Key ID 82562ea9ad986da3
-glib2-2.56.4-166.el8_10-x86_64;RSA/SHA256, Wed Jul 16 20:48:06 2025, Key ID 82562ea9ad986da3
+glib2-2.56.4-167.el8_10-x86_64;RSA/SHA256, Tue Nov  4 10:23:38 2025, Key ID 82562ea9ad986da3
 glibc-2.28-251.0.3.el8_10.25-x86_64;RSA/SHA256, Tue Aug  5 17:50:12 2025, Key ID 82562ea9ad986da3
 glibc-common-2.28-251.0.3.el8_10.25-x86_64;RSA/SHA256, Tue Aug  5 17:50:18 2025, Key ID 82562ea9ad986da3
 glibc-gconv-extra-2.28-251.0.3.el8_10.25-x86_64;RSA/SHA256, Tue Aug  5 17:53:05 2025, Key ID 82562ea9ad986da3
@@ -126,8 +126,8 @@ libsepol-2.9-3.el8-x86_64;RSA/SHA256, Sun Oct 10 21:40:29 2021, Key ID 82562ea9a
 libsigsegv-2.11-5.el8-x86_64;RSA/SHA256, Sat Apr 13 01:33:32 2019, Key ID 82562ea9ad986da3
 libsmartcols-2.32.1-46.0.1.el8-x86_64;RSA/SHA256, Wed Apr 10 12:38:44 2024, Key ID 82562ea9ad986da3
 libsolv-0.7.20-6.el8-x86_64;RSA/SHA256, Sat Oct 14 13:38:56 2023, Key ID 82562ea9ad986da3
-libssh-0.9.6-15.el8_10-x86_64;RSA/SHA256, Mon Oct 20 05:25:44 2025, Key ID 82562ea9ad986da3
-libssh-config-0.9.6-15.el8_10-noarch;RSA/SHA256, Mon Oct 20 05:25:41 2025, Key ID 82562ea9ad986da3
+libssh-0.9.6-16.el8_10-x86_64;RSA/SHA256, Mon Nov 24 22:59:35 2025, Key ID 82562ea9ad986da3
+libssh-config-0.9.6-16.el8_10-noarch;RSA/SHA256, Mon Nov 24 22:59:32 2025, Key ID 82562ea9ad986da3
 libstdc++-8.5.0-28.0.1.el8_10-x86_64;RSA/SHA256, Tue Aug 26 19:30:02 2025, Key ID 82562ea9ad986da3
 libtasn1-4.13-5.el8_10-x86_64;RSA/SHA256, Tue Apr 22 05:59:05 2025, Key ID 82562ea9ad986da3
 libtirpc-1.1.4-12.el8_10-x86_64;RSA/SHA256, Tue Jul  2 22:56:00 2024, Key ID 82562ea9ad986da3
@@ -207,10 +207,10 @@ setup-2.12.2-9.el8-noarch;RSA/SHA256, Fri Mar 31 07:41:50 2023, Key ID 82562ea9a
 shadow-utils-4.6-22.el8-x86_64;RSA/SHA256, Tue Apr  9 09:39:01 2024, Key ID 82562ea9ad986da3
 shared-mime-info-1.9-4.el8-x86_64;RSA/SHA256, Sat Apr  6 13:38:47 2024, Key ID 82562ea9ad986da3
 sqlite-libs-3.26.0-20.el8_10-x86_64;RSA/SHA256, Tue Jul 29 01:29:22 2025, Key ID 82562ea9ad986da3
-systemd-239-82.0.6.el8_10.5-x86_64;RSA/SHA256, Thu Oct 23 22:05:46 2025, Key ID 82562ea9ad986da3
-systemd-libs-239-82.0.6.el8_10.5-x86_64;RSA/SHA256, Thu Oct 23 22:05:47 2025, Key ID 82562ea9ad986da3
-systemd-pam-239-82.0.6.el8_10.5-x86_64;RSA/SHA256, Thu Oct 23 22:05:47 2025, Key ID 82562ea9ad986da3
-systemd-udev-239-82.0.6.el8_10.5-x86_64;RSA/SHA256, Thu Oct 23 22:05:50 2025, Key ID 82562ea9ad986da3
+systemd-239-82.0.7.el8_10.8-x86_64;RSA/SHA256, Tue Nov 18 13:32:35 2025, Key ID 82562ea9ad986da3
+systemd-libs-239-82.0.7.el8_10.8-x86_64;RSA/SHA256, Tue Nov 18 13:32:34 2025, Key ID 82562ea9ad986da3
+systemd-pam-239-82.0.7.el8_10.8-x86_64;RSA/SHA256, Tue Nov 18 13:32:35 2025, Key ID 82562ea9ad986da3
+systemd-udev-239-82.0.7.el8_10.8-x86_64;RSA/SHA256, Tue Nov 18 13:32:38 2025, Key ID 82562ea9ad986da3
 tar-1.30-11.el8_10-x86_64;RSA/SHA256, Tue Aug 26 04:10:03 2025, Key ID 82562ea9ad986da3
 tpm2-tss-2.3.2-6.el8-x86_64;RSA/SHA256, Wed Apr 10 01:51:16 2024, Key ID 82562ea9ad986da3
 trousers-0.3.15-2.el8-x86_64;RSA/SHA256, Wed Apr 10 02:00:37 2024, Key ID 82562ea9ad986da3
